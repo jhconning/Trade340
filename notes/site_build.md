@@ -1,8 +1,9 @@
 ---
 title: site_build
 title_custom: true
+tags: [config]
 created: '2021-01-29T05:09:57.448Z'
-modified: '2021-01-29T05:24:38.893Z'
+modified: '2021-01-29T05:56:26.593Z'
 ---
 
 # Site build details

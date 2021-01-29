@@ -12,6 +12,7 @@
     - file: notes/M01_Intro 
       sections:
         - file: notes/FirstGlobalization
+        - file: notes/RQ_Jobs
 
     - file: notes/M02_Ricardian
       sections:
