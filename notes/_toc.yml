@@ -1,0 +1,18 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+- file: intro
+
+- part: Content
+  chapters:
+    - file: content
+    - file: Ricardo 
+    - file: markdown
+    - file: notebooks
+
+
+- part: How it is done
+  chapters:
+    - file: how
+    - file: features
+    - file: embed_geogebra

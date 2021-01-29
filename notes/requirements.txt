@@ -1,0 +1,12 @@
+---
+title: requirements
+tags: [config]
+created: '2021-01-21T05:59:39.893Z'
+modified: '2021-01-27T23:55:25.835Z'
+---
+
+jupyter-book
+matplotlib
+numpy
+ipywidgets
+

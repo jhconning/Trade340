@@ -1,0 +1,34 @@
+- file: notes/README
+
+
+- part: Course Details
+  chapters:
+    - file: notes/Welcome
+    - file: notes/Instructors
+    - file: notes/Zoom
+    
+- part: Content Modules
+  chapters:
+    - file: notes/M01_Intro 
+      sections:
+        - file: notes/FirstGlobalization
+
+    - file: notes/M02_Ricardian
+      sections:
+        - file: notes/Ricardo
+        
+    - file: notes/M03-Specific
+      sections:
+        - file: notes/SFM_structure
+        
+    - file: notes/Labor
+    - file: notes/TradeModelsStructure
+
+- part: Links and Resources
+  chapters:
+    - file: notes/twitter
+      
+- part: Site Details
+  chapters:
+    - file: notes/how
+    - file: notes/embed_geogebra
