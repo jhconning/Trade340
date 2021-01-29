@@ -5,7 +5,7 @@ This site is used to organize content for the Eco 340 course site on Tophat.
 
 Most of the content is written in markdown (.md) and jupyter notebook (.ipynb) files and then rendered as a jupyterbook website: 
 
-[jhconning.github.io/trade340/](https://jhconning.github.io/Trade340/notes/README.html)
+[jhconning.github.io/trade340/](https://jhconning.github.io/Trade340)
 
 The virtue of this method is that it allows us to do a 'mock up' of content very similar to what things will look like in the Tophat site.  
 
