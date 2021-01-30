@@ -1,8 +1,8 @@
 ---
 title: twitter
-tags: [Notebooks/Modules/M90_Other, Notebooks/Resources, post]
+tags: [Notebooks/Modules/M90_Other, Notebooks/Resources, posted]
 created: '2021-01-26T04:19:58.163Z'
-modified: '2021-01-28T14:12:02.469Z'
+modified: '2021-01-30T03:52:19.553Z'
 ---
 
 # Twitter Feed

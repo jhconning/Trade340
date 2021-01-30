@@ -29,7 +29,8 @@
   chapters:
     - file: notes/twitter
       
-- part: Site Details
+- part: Site Building Details 
   chapters:
     - file: notes/how
+    - file: notes/embed_geogebra
     - file: notes/embed_geogebra
