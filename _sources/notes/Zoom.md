@@ -3,7 +3,7 @@ title: Zoom
 title_custom: true
 tags: [Notebooks/Modules/Course Info]
 created: '2021-01-29T04:27:22.125Z'
-modified: '2021-01-29T05:54:14.759Z'
+modified: '2021-01-29T19:38:37.936Z'
 ---
 
 # Zoom and announcements
@@ -16,9 +16,9 @@ You must have Tophat open in a computer browser tab  (or phone or tablet app) to
 
 At the agreed time, click on the zoom link: 
 
-[https://huntercollege.zoom.us/j/8625015888?pwd=SjJsdStlT0xOSFk5RVhsb0dVMDRHQT09](https://huntercollege.zoom.us/j/8625015888%3Fpwd%3DSjJsdStlT0xOSFk5RVhsb0dVMDRHQT09)
+https://us02web.zoom.us/j/83268430587?pwd=RjlYemZQaytieHRaZUVzL3crS21EUT09
 
-Or join from the zoom app using **meeting ID 862 501 5888 and passcode 100100. **
+Or join from the zoom app using **meeting ID 832 6843 0587 and passcode 100100.**
 
 
 ## Past Zoom recordings
