@@ -35,3 +35,16 @@ Why can't developing countries gain from trade?
 
 
  Could first world countries have helped the people in the Philippines and Bangladesh by sending money or food? 
+
+ 1. Paul Krugman suggests that the disadvantages of producing in low-income countries were reduced by a variety of factors. Which did Krugman NOT mention? 
+	a. lower tariffs
+	*b. stronger labor laws
+	c. improved telecommunications 
+	d. cheaper air transport costs
+2. Krugman is mainly concerned with what kind of economic growth?
+	a. Consumer led growth
+	b. agricultural growth
+	*c. Export oriented growth
+	d. Import oriented growth
+(maybe a short response question where all answers are accepted like)
+3. Are you convinced by Krugman's argument? Why are why not? 
