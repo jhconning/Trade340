@@ -48,3 +48,17 @@ Why can't developing countries gain from trade?
 	d. Import oriented growth
 (maybe a short response question where all answers are accepted like)
 3. Are you convinced by Krugman's argument? Why are why not? 
+
+1. Which of the following features does NOT correctly describe the Third World country such as Indonesia and Bangladesh in the ‘70s?
+	a. importers of manufactures
+	b. exporters of primary commodity
+	c. Inefficient manufacturing sectors
+	*d. the vastly larger size of open markets
+
+2. According to Professor Krugman’s viewpoint, _____ allowed developing countries to break into world markets in many industries.
+	a. high default rate
+	*b. low wages
+	c. lower costs of living
+	d. high birth rate
+
+3. Professor Krugman argues that the outrage of his correspondents is due to fastidiousness. Do you agree with this explanation? 
