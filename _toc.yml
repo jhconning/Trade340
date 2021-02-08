@@ -25,6 +25,20 @@
     - file: notes/Labor
     - file: notes/TradeModelsStructure
 
+- part: Trade Notebooks
+  chapters:
+    - file: notebooks/Ricardian_Trade
+    - file: notebooks/SFM
+    - file: notebooks/Tariff_in_general_equilibrium
+    - file: notebooks/IRS_monopolistic
+      
+- part: Site Building Details 
+  chapters:
+    - file: notes/how
+    - file: notes/jb_tricks
+    - file: notebooks/embed_geogebra
+
+
 - part: Links and Resources
   chapters:
     - file: notes/twitter
@@ -32,5 +46,5 @@
 - part: Site Building Details 
   chapters:
     - file: notes/how
-    - file: notes/embed_geogebra
-    - file: notes/embed_geogebra
+    - file: notes/jb_tricks
+    - file: notebooks/embed_geogebra
