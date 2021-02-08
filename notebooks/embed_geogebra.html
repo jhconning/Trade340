@@ -47,6 +47,8 @@
     <script src="../_static/sphinx-book-theme.d31b09fe5c1d09cb49b26a786de4a05d.js"></script>
     <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["\\(", "\\)"]], "displayMath": [["\\[", "\\]"]], "processRefs": false, "processEnvironments": false}})</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
+    <script src="https://unpkg.com/@jupyter-widgets/html-manager@^0.20.0/dist/embed-amd.js"></script>
     <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
     <script >
         const thebe_selector = ".thebe"
@@ -56,7 +58,8 @@
     <script async="async" src="../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="prev" title="How this site was built" href="how.html" />
+    <link rel="next" title="Twitter Feed" href="../notes/twitter.html" />
+    <link rel="prev" title="How this site was built" href="../notes/how.html" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
@@ -88,7 +91,7 @@
 <nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
     <ul class="nav sidenav_l1">
  <li class="toctree-l1">
-  <a class="reference internal" href="index.html">
+  <a class="reference internal" href="../notes/index.html">
    Econ 340: International Trade
   </a>
  </li>
@@ -100,17 +103,17 @@
 </p>
 <ul class="nav sidenav_l1">
  <li class="toctree-l1">
-  <a class="reference internal" href="Welcome.html">
+  <a class="reference internal" href="../notes/Welcome.html">
    Welcome
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="Instructors.html">
+  <a class="reference internal" href="../notes/Instructors.html">
    Instructors
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="Zoom.html">
+  <a class="reference internal" href="../notes/Zoom.html">
    Zoom and announcements
   </a>
  </li>
@@ -122,12 +125,12 @@
 </p>
 <ul class="nav sidenav_l1">
  <li class="toctree-l1 collapsible-parent">
-  <a class="reference internal" href="M01_Intro.html">
+  <a class="reference internal" href="../notes/M01_Intro.html">
    M01 Introduction
   </a>
   <ul class="collapse-ul">
    <li class="toctree-l2">
-    <a class="reference internal" href="RQ_Jobs.html">
+    <a class="reference internal" href="../notes/RQ_Jobs.html">
      Read: Technology, Trade and Jobs
     </a>
    </li>
@@ -136,12 +139,12 @@
   </i>
  </li>
  <li class="toctree-l1 collapsible-parent">
-  <a class="reference internal" href="M02_Ricardian.html">
+  <a class="reference internal" href="../notes/M02_Ricardian.html">
    M02 The Ricardian Model
   </a>
   <ul class="collapse-ul">
    <li class="toctree-l2">
-    <a class="reference internal" href="Ricardo.html">
+    <a class="reference internal" href="../notes/Ricardo.html">
      The Ricardian Model
     </a>
    </li>
@@ -150,12 +153,12 @@
   </i>
  </li>
  <li class="toctree-l1 collapsible-parent">
-  <a class="reference internal" href="M03-Specific.html">
+  <a class="reference internal" href="../notes/M03-Specific.html">
    M03 Specific Factors Model
   </a>
   <ul class="collapse-ul">
    <li class="toctree-l2">
-    <a class="reference internal" href="SFM_structure.html">
+    <a class="reference internal" href="../notes/SFM_structure.html">
      SFM_structure
     </a>
    </li>
@@ -164,13 +167,62 @@
   </i>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="Labor.html">
+  <a class="reference internal" href="../notes/Labor.html">
    The Movement of Labor
   </a>
  </li>
  <li class="toctree-l1">
-  <a class="reference internal" href="TradeModelsStructure.html">
+  <a class="reference internal" href="../notes/TradeModelsStructure.html">
    Trade Models Structure
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Trade Notebooks
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="Ricardian_Trade.html">
+   The Ricardian Trade Model
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="SFM.html">
+   The Specific Factors Model
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="Tariff_in_general_equilibrium.html">
+   General equilibrium analysis of Tariffs
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="IRS_monopolistic.html">
+   Increasing returns, Monopolistic Competition
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="IRS_monopolistic.html#and-international-trade">
+   and International Trade
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Site Building Details
+ </span>
+</p>
+<ul class="current nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../notes/how.html">
+   How this site was built
+  </a>
+ </li>
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   How to Embed Geogebra
   </a>
  </li>
 </ul>
@@ -181,7 +233,7 @@
 </p>
 <ul class="nav sidenav_l1">
  <li class="toctree-l1">
-  <a class="reference internal" href="twitter.html">
+  <a class="reference internal" href="../notes/twitter.html">
    Twitter Feed
   </a>
  </li>
@@ -193,13 +245,8 @@
 </p>
 <ul class="current nav sidenav_l1">
  <li class="toctree-l1">
-  <a class="reference internal" href="how.html">
+  <a class="reference internal" href="../notes/how.html">
    How this site was built
-  </a>
- </li>
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
-   How to Embed Geogebra
   </a>
  </li>
  <li class="toctree-l1 current active">
@@ -247,7 +294,7 @@
         <!-- ipynb file if we had a myst markdown file -->
         
         <!-- Download raw file -->
-        <a class="dropdown-buttons" href="../_sources/notes/embed_geogebra.ipynb"><button type="button"
+        <a class="dropdown-buttons" href="../_sources/notebooks/embed_geogebra.ipynb"><button type="button"
                 class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
                 data-placement="left">.ipynb</button></a>
         <!-- Download PDF via print -->
@@ -285,7 +332,7 @@
         aria-label="Launch interactive content"><i class="fas fa-rocket"></i></button>
     <div class="dropdown-buttons">
         
-        <a class="binder-button" href="https://mybinder.org/v2/gh/jhconning/eco340/main?urlpath=tree/notes/embed_geogebra.ipynb"><button type="button"
+        <a class="binder-button" href="https://mybinder.org/v2/gh/jhconning/eco340/main?urlpath=tree/notebooks/embed_geogebra.ipynb"><button type="button"
                 class="btn btn-secondary topbarbtn" title="Launch Binder" data-toggle="tooltip"
                 data-placement="left"><img class="binder-button-logo"
                     src="../_static/images/logo_binder.svg"
@@ -293,7 +340,7 @@
         
         
         
-        <a class="colab-button" href="https://colab.research.google.com/github/jhconning/eco340/blob/main/notes/embed_geogebra.ipynb"><button type="button" class="btn btn-secondary topbarbtn"
+        <a class="colab-button" href="https://colab.research.google.com/github/jhconning/eco340/blob/main/notebooks/embed_geogebra.ipynb"><button type="button" class="btn btn-secondary topbarbtn"
                 title="Launch Colab" data-toggle="tooltip" data-placement="left"><img class="colab-button-logo"
                     src="../_static/images/logo_colab.png"
                     alt="Interact on Colab">Colab</button></a>
@@ -476,7 +523,7 @@ style="border:0px;">
         },
         kernelOptions: {
             kernelName: "python3",
-            path: "./notes"
+            path: "./notebooks"
         },
         predefinedOutput: true
     }
@@ -491,7 +538,8 @@ style="border:0px;">
     
     <div class='prev-next-bottom'>
         
-    <a class='left-prev' id="prev-link" href="how.html" title="previous page">How this site was built</a>
+    <a class='left-prev' id="prev-link" href="../notes/how.html" title="previous page">How this site was built</a>
+    <a class='right-next' id="next-link" href="../notes/twitter.html" title="next page">Twitter Feed</a>
 
     </div>
     <footer class="footer mt-5 mt-md-0">

@@ -1,0 +1,863 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Ricardian Trade Model &#8212; Eco 340 International Trade (Hunter Economics)</title>
+    
+  <link rel="stylesheet" href="../_static/css/index.f658d18f9b420779cfdf24aa0a7e2d77.css">
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+  <link rel="stylesheet"
+    href="../_static/vendor/open-sans_all/1.44.1/index.css">
+  <link rel="stylesheet"
+    href="../_static/vendor/lato_latin-ext/1.44.1/index.css">
+
+    
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/sphinx-book-theme.40e2e510f6b7d1648584402491bb10fe.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../_static/js/index.d3f166471bb80abb5163.js">
+
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/sphinx-book-theme.d31b09fe5c1d09cb49b26a786de4a05d.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["\\(", "\\)"]], "displayMath": [["\\[", "\\]"]], "processRefs": false, "processEnvironments": false}})</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
+    <script src="https://unpkg.com/@jupyter-widgets/html-manager@^0.20.0/dist/embed-amd.js"></script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="The Specific Factors Model" href="SFM.html" />
+    <link rel="prev" title="Trade Models Structure" href="../notes/TradeModelsStructure.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="../index.html">
+  
+  <img src="../_static/logo.png" class="logo" alt="logo">
+  
+  
+  <h1 class="site-logo" id="site-title">Eco 340 International Trade (Hunter Economics)</h1>
+  
+</a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form>
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../notes/index.html">
+   Econ 340: International Trade
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Course Details
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../notes/Welcome.html">
+   Welcome
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../notes/Instructors.html">
+   Instructors
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../notes/Zoom.html">
+   Zoom and announcements
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Content Modules
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1 collapsible-parent">
+  <a class="reference internal" href="../notes/M01_Intro.html">
+   M01 Introduction
+  </a>
+  <ul class="collapse-ul">
+   <li class="toctree-l2">
+    <a class="reference internal" href="../notes/RQ_Jobs.html">
+     Read: Technology, Trade and Jobs
+    </a>
+   </li>
+  </ul>
+  <i class="fas fa-chevron-down">
+  </i>
+ </li>
+ <li class="toctree-l1 collapsible-parent">
+  <a class="reference internal" href="../notes/M02_Ricardian.html">
+   M02 The Ricardian Model
+  </a>
+  <ul class="collapse-ul">
+   <li class="toctree-l2">
+    <a class="reference internal" href="../notes/Ricardo.html">
+     The Ricardian Model
+    </a>
+   </li>
+  </ul>
+  <i class="fas fa-chevron-down">
+  </i>
+ </li>
+ <li class="toctree-l1 collapsible-parent">
+  <a class="reference internal" href="../notes/M03-Specific.html">
+   M03 Specific Factors Model
+  </a>
+  <ul class="collapse-ul">
+   <li class="toctree-l2">
+    <a class="reference internal" href="../notes/SFM_structure.html">
+     SFM_structure
+    </a>
+   </li>
+  </ul>
+  <i class="fas fa-chevron-down">
+  </i>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../notes/Labor.html">
+   The Movement of Labor
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../notes/TradeModelsStructure.html">
+   Trade Models Structure
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Trade Notebooks
+ </span>
+</p>
+<ul class="current nav sidenav_l1">
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   The Ricardian Trade Model
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="SFM.html">
+   The Specific Factors Model
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="Tariff_in_general_equilibrium.html">
+   General equilibrium analysis of Tariffs
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="IRS_monopolistic.html">
+   Increasing returns, Monopolistic Competition
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="IRS_monopolistic.html#and-international-trade">
+   and International Trade
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Site Building Details
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../notes/how.html">
+   How this site was built
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="embed_geogebra.html">
+   How to Embed Geogebra
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Links and Resources
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../notes/twitter.html">
+   Twitter Feed
+  </a>
+ </li>
+</ul>
+<p class="caption collapsible-parent">
+ <span class="caption-text">
+  Site Building Details
+ </span>
+</p>
+<ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../notes/how.html">
+   How this site was built
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="embed_geogebra.html">
+   How to Embed Geogebra
+  </a>
+ </li>
+</ul>
+
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="row topbar fixed-top container-xl">
+    <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show">
+    </div>
+    <div class="col pl-2 topbar-main">
+        
+        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        
+        
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/notebooks/Ricardian_Trade.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.ipynb</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+        <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/jhconning/eco340"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        
+        
+    </div>
+</div>
+
+
+        <!-- Full screen (wrap in <a> to have style consistency -->
+        <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+                title="Fullscreen mode"><i
+                    class="fas fa-expand"></i></button></a>
+
+        <!-- Launch buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Launch interactive content"><i class="fas fa-rocket"></i></button>
+    <div class="dropdown-buttons">
+        
+        <a class="binder-button" href="https://mybinder.org/v2/gh/jhconning/eco340/main?urlpath=tree/notebooks/Ricardian_Trade.ipynb"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Launch Binder" data-toggle="tooltip"
+                data-placement="left"><img class="binder-button-logo"
+                    src="../_static/images/logo_binder.svg"
+                    alt="Interact on binder">Binder</button></a>
+        
+        
+        
+        <a class="colab-button" href="https://colab.research.google.com/github/jhconning/eco340/blob/main/notebooks/Ricardian_Trade.ipynb"><button type="button" class="btn btn-secondary topbarbtn"
+                title="Launch Colab" data-toggle="tooltip" data-placement="left"><img class="colab-button-logo"
+                    src="../_static/images/logo_colab.png"
+                    alt="Interact on Colab">Colab</button></a>
+        
+        
+    </div>
+</div>
+
+    </div>
+
+    <!-- Table of contents -->
+    <div class="d-none d-md-block col-md-2 bd-toc show">
+        
+        <div class="tocsection onthispage pt-5 pb-3">
+            <i class="fas fa-list"></i> Contents
+        </div>
+        <nav id="bd-toc-nav">
+            <ul class="nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#warm-up-budget-lines-and-indifference-curves">
+   Warm up:  budget lines and indifference curves
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#ricardian-model">
+   Ricardian model
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#linear-production-technologies">
+     Linear Production Technologies
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#the-labor-resource-constraint">
+     The labor resource constraint
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#minimum-labor-requirements">
+     Minimum labor requirements
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#the-production-possibility-frontier-ppf">
+     The Production Possibility Frontier (PPF)
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#competitive-prices-and-wages">
+     Competitive Prices and Wages
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#real-wages">
+     Real wages
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#prices-in-the-closed-economy">
+     Prices in the closed economy
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#interactive-diagram">
+     Interactive diagram
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#home-opens-to-trade-gains-to-trade">
+   Home opens to Trade  –  Gains to Trade
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#a-two-country-model">
+     A two country model
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#more-fun">
+   More fun
+  </a>
+ </li>
+</ul>
+
+        </nav>
+        
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="the-ricardian-trade-model">
+<h1>The Ricardian Trade Model<a class="headerlink" href="#the-ricardian-trade-model" title="Permalink to this headline">¶</a></h1>
+<p>One in a series of python jupyter notebooks on Trade models by Jonathan Conning</p>
+<p><em>Notes:</em> the plots and simulations below are written in python. This notebook can be run interactively on a jupyter server. Much of the code is in a separate <span class="xref myst">econteach</span> module. You can also view this notebook in slideshow mode (Alt-R) if the proper extension is installed.</p>
+<div class="cell tag_hide_cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">sys</span>
+<span class="kn">from</span> <span class="nn">ipywidgets</span> <span class="kn">import</span> <span class="n">interact</span><span class="p">,</span> <span class="n">interact_manual</span><span class="p">,</span> <span class="n">fixed</span>
+<span class="o">%</span><span class="k">matplotlib</span> inline
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell tag_hide_cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="o">%</span><span class="k">load_ext</span> autoreload
+<span class="o">%</span><span class="k">autoreload</span> 2
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell tag_hide_cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="s2">&quot;..&quot;</span><span class="p">)</span>
+<span class="kn">from</span> <span class="nn">ricardo</span> <span class="kn">import</span> <span class="o">*</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
+<span class="ne">ModuleNotFoundError</span><span class="g g-Whitespace">                       </span>Traceback (most recent call last)
+<span class="o">&lt;</span><span class="n">ipython</span><span class="o">-</span><span class="nb">input</span><span class="o">-</span><span class="mi">3</span><span class="o">-</span><span class="n">edd5eac8b220</span><span class="o">&gt;</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<span class="g g-Whitespace">      </span><span class="mi">1</span> <span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="s2">&quot;..&quot;</span><span class="p">)</span>
+<span class="ne">----&gt; </span><span class="mi">2</span> <span class="kn">from</span> <span class="nn">ricardo</span> <span class="kn">import</span> <span class="o">*</span>
+
+<span class="o">~/</span><span class="n">work</span><span class="o">/</span><span class="n">Trade340</span><span class="o">/</span><span class="n">Trade340</span><span class="o">/</span><span class="n">notebooks</span><span class="o">/</span><span class="n">ricardo</span><span class="o">.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<span class="g g-Whitespace">      </span><span class="mi">8</span> <span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="g g-Whitespace">      </span><span class="mi">9</span> <span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="ne">---&gt; </span><span class="mi">10</span> <span class="kn">from</span> <span class="nn">scipy.optimize</span> <span class="kn">import</span> <span class="n">fsolve</span>
+<span class="g g-Whitespace">     </span><span class="mi">11</span> 
+<span class="g g-Whitespace">     </span><span class="mi">12</span> 
+
+<span class="ne">ModuleNotFoundError</span>: No module named &#39;scipy&#39;
+</pre></div>
+</div>
+</div>
+</div>
+<div class="section" id="warm-up-budget-lines-and-indifference-curves">
+<h2>Warm up:  budget lines and indifference curves<a class="headerlink" href="#warm-up-budget-lines-and-indifference-curves" title="Permalink to this headline">¶</a></h2>
+<p>You have I=$100 income.</p>
+<p>You can buy good X or good Y where might refer to food nutrition bars and good Y to manufactured trinkets.</p>
+<ul class="simple">
+<li><p><span class="math notranslate nohighlight">\(p_x\)</span>  – Price of one unit of good X measured in $ per unit</p></li>
+<li><p><span class="math notranslate nohighlight">\(p_y\)</span>  – Price of one unit of good Y measured in $ per unit</p></li>
+<li><p><span class="math notranslate nohighlight">\(\frac{p_x}{p_y}\)</span>  – Relative price of good X measured in terms of good Y.</p></li>
+</ul>
+<p><strong>Interactive:</strong> move the sliders to change parameter values.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">interact</span><span class="p">(</span><span class="n">budget</span><span class="p">,</span><span class="n">px</span><span class="o">=</span><span class="p">(</span><span class="mf">0.3</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mf">0.1</span><span class="p">),</span><span class="n">py</span><span class="o">=</span><span class="p">(</span><span class="mf">0.3</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mf">0.1</span><span class="p">),</span><span class="n">I</span><span class="o">=</span><span class="p">(</span><span class="mi">50</span><span class="p">,</span><span class="mi">150</span><span class="p">,</span><span class="mi">10</span><span class="p">),</span><span class="n">show</span><span class="o">=</span><span class="n">fixed</span><span class="p">(</span><span class="kc">True</span><span class="p">)</span> <span class="p">);</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<script type="application/vnd.jupyter.widget-view+json">
+{"model_id": "a7357788c5df4f2e8c6663ec8c93959d", "version_major": 2, "version_minor": 0}
+</script></div>
+</div>
+</div>
+<div class="section" id="ricardian-model">
+<h2>Ricardian model<a class="headerlink" href="#ricardian-model" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="linear-production-technologies">
+<h3>Linear Production Technologies<a class="headerlink" href="#linear-production-technologies" title="Permalink to this headline">¶</a></h3>
+<p>Labor is the only input.</p>
+<p>Good <span class="math notranslate nohighlight">\(X\)</span> and good <span class="math notranslate nohighlight">\(Y\)</span> are produced with linear production technologies:</p>
+<div class="math notranslate nohighlight">
+\[Q_X = MPL_X \cdot L_X\]</div>
+<div class="math notranslate nohighlight">
+\[Q_Y = MPL_Y \cdot L_Y\]</div>
+<p>where <span class="math notranslate nohighlight">\(MPL_X\)</span> and <span class="math notranslate nohighlight">\(MPL_X\)</span> are the constant <strong>marginal product of labor</strong> productivity parameters in the <span class="math notranslate nohighlight">\(X\)</span> and the <span class="math notranslate nohighlight">\(Y\)</span> sector, respectively.</p>
+<p>The marginal product of good <span class="math notranslate nohighlight">\(X\)</span> is measured in <em>units of good <span class="math notranslate nohighlight">\(X\)</span> per unit labor</em>.</p>
+</div>
+<div class="section" id="the-labor-resource-constraint">
+<h3>The labor resource constraint<a class="headerlink" href="#the-labor-resource-constraint" title="Permalink to this headline">¶</a></h3>
+<p>The sum of labor demands in the two sectors cannot exceed the economy’s total labor supply <span class="math notranslate nohighlight">\(\bar L\)</span>:</p>
+<div class="math notranslate nohighlight">
+\[L_X + L_Y = \bar L\]</div>
+</div>
+<div class="section" id="minimum-labor-requirements">
+<h3>Minimum labor requirements<a class="headerlink" href="#minimum-labor-requirements" title="Permalink to this headline">¶</a></h3>
+<p>We can invert the <span class="math notranslate nohighlight">\(X\)</span> production function to find the minimum labor required to produce any quantity <span class="math notranslate nohighlight">\(Q_X\)</span>:</p>
+<div class="math notranslate nohighlight">
+\[L_X = \frac{1}{MPL_X} Q_X\]</div>
+<p><span class="math notranslate nohighlight">\(a_{LX}=\frac{1}{MPL_X}\)</span> is the constant <strong>unit labor requirement</strong> to produce each additional unit of <span class="math notranslate nohighlight">\(Q_X\)</span>.</p>
+<p>The minimum labor required to produce any quantity <span class="math notranslate nohighlight">\(Q_Y\)</span> is</p>
+<div class="math notranslate nohighlight">
+\[L_Y = \frac{1}{MPL_Y} Q_Y\]</div>
+<p><span class="math notranslate nohighlight">\(a_{LY}=\frac{1}{MPL_Y}\)</span> is the constant <strong>unit labor requirement</strong> to produce each additional unit of <span class="math notranslate nohighlight">\(Q_Y\)</span>.</p>
+</div>
+<div class="section" id="the-production-possibility-frontier-ppf">
+<h3>The Production Possibility Frontier (PPF)<a class="headerlink" href="#the-production-possibility-frontier-ppf" title="Permalink to this headline">¶</a></h3>
+<p>Tells us what is feasible to produce given available technology and resource constraints.</p>
+<p>The economy’s labor resource constraint</p>
+<div class="math notranslate nohighlight">
+\[L_X + L_Y = \bar L\]</div>
+<p>can be rewritten (using our minimum labor requirement functions) to find:</p>
+<div class="math notranslate nohighlight">
+\[\frac{1}{MPL_X} Q_X + \frac{1}{MPL_Y} Q_Y = \bar L\]</div>
+<p>le us re-arrange the PPF constraint further to obtain an expression easy to plot:</p>
+<div class="math notranslate nohighlight">
+\[Q_Y = MPL_Y \cdot \bar L - \frac{MPL_Y}{MPL_X} Q_X\]</div>
+<p><strong>Example:</strong>  If <span class="math notranslate nohighlight">\(MPL_X = 2\)</span>, <span class="math notranslate nohighlight">\(MPL_Y = 1\)</span> and <span class="math notranslate nohighlight">\(\bar L = 200\)</span> then the PPF curve is given by:</p>
+<div class="math notranslate nohighlight">
+\[Q_Y = 200 - \frac{1}{2} Q_X\]</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">rppf</span><span class="p">(</span><span class="n">mplx</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span><span class="n">mply</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span><span class="n">lbar</span><span class="o">=</span><span class="mi">200</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<img alt="../_images/Ricardian_Trade_20_0.png" src="../_images/Ricardian_Trade_20_0.png" />
+</div>
+</div>
+<p>The PPF has:</p>
+<ul class="simple">
+<li><p><span class="math notranslate nohighlight">\(Y\)</span> intercept:   <span class="math notranslate nohighlight">\(MPL_Y \cdot \bar L = 1 \cdot 200 = 200\)</span></p></li>
+<li><p><span class="math notranslate nohighlight">\(X\)</span> intercept:   <span class="math notranslate nohighlight">\(MPL_X \cdot \bar L = 2 \cdot 200 = 400\)</span></p></li>
+</ul>
+<p>The negative slope shows that there is a tradeoff:</p>
+<ul class="simple">
+<li><p>We need <span class="math notranslate nohighlight">\(\frac{1}{MPL_X}=1/2\)</span> workers to produce one more unit of good X.</p></li>
+<li><p>With full employment we can only get this labor by pulling them out of Y production.</p></li>
+<li><p>Each worker there would have produced <span class="math notranslate nohighlight">\(MPL_Y=1\)</span> units of Y, so withdrawing <span class="math notranslate nohighlight">\(\frac{1}{MPL_X}\)</span> workers will reduce Y output by</p></li>
+</ul>
+<div class="math notranslate nohighlight">
+\[
+\frac{MPL_Y}{MPL_X} = \frac{2}{1}    \left ( \frac{\text{units of Y}}{\text{units of X}} \right )
+\]</div>
+<p>Hence (negative of) the slope tells us the opportunity cost of an extra unit of good X, measured in terms of units of good Y which must be given up.</p>
+</div>
+<div class="section" id="competitive-prices-and-wages">
+<h3>Competitive Prices and Wages<a class="headerlink" href="#competitive-prices-and-wages" title="Permalink to this headline">¶</a></h3>
+<p>Firms will earn profit and want to hire more workers so long as the marginal value product of labor exceeds the market wage. Competition between firms and workers moving across firms and sectors in search of the highest wage will drive profits to zero at which the following market equilibrium conditions must hold:</p>
+<div class="math notranslate nohighlight">
+\[P_X \cdot MPL_X = w = P_Y \cdot MPL_Y   \]</div>
+<p>All workers are paid the same wage which will be equal to their marginal value product, which is equalized across firms and sectors.</p>
+</div>
+<div class="section" id="real-wages">
+<h3>Real wages<a class="headerlink" href="#real-wages" title="Permalink to this headline">¶</a></h3>
+<p>The nominal wage <span class="math notranslate nohighlight">\(w\)</span> is measured in dollars. From the zero profit condition we can determine real wages:</p>
+<div class="math notranslate nohighlight">
+\[\frac{w}{P_X} = MPL_X \, \,\,\, \text{(units of good X per unit of labor)}\]</div>
+<div class="math notranslate nohighlight">
+\[\frac{w}{P_Y} = MPL_Y\, \,\,\, \text{(units of good Y per unit of labor)}\]</div>
+<p>these measure the <em>purchasing power</em> of this nominal wage in terms of good <span class="math notranslate nohighlight">\(X\)</span> and good <span class="math notranslate nohighlight">\(Y\)</span> respectively.</p>
+<div class="math notranslate nohighlight">
+\[\frac{w}{P_X}=MPL_X=2  \text{ and } \frac{w}{P_Y}=MPL_Y=1\]</div>
+<p>In this competitive economy workers are paid a real wage equal to their marginal product.  Workers are the only factor of production and firm profits are driven to zero so workers get all of the output in the economy.</p>
+<p><strong>Important Note</strong>:</p>
+<p><span class="math notranslate nohighlight">\(\frac{w}{P_X}\)</span> and <span class="math notranslate nohighlight">\(\frac{w}{P_Y}\)</span> are <strong>not</strong> different wages for workers in each sector, they are just two different ways to measure the real purchasing power of a worker’s wage.</p>
+<p><em>There is only one wage in the economy</em> and all workers earn the same wage no matter what sector or firm they work in!</p>
+<p>It is easy to determine real wages just from eyeballing the PPF graph, if you know the size of the labor force.  In the plot real GDP <em>measured in terms of good X</em> is 400 units and since there are 100 workers each worker gets paid a real wage of 4 units of X.  If <em>real GDP is measured instead in terms of good Y</em> real GDP is 200 units of Y and since there are 100 workers each worker gets paid a real wage of 2 units of Y.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">rppf</span><span class="p">(</span><span class="n">mplx</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span><span class="n">mply</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span><span class="n">lbar</span><span class="o">=</span><span class="mi">200</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<img alt="../_images/Ricardian_Trade_30_0.png" src="../_images/Ricardian_Trade_30_0.png" />
+</div>
+</div>
+<p>We could also define a real wage in terms of any arbitrary basket of goods. For example, let</p>
+<div class="math notranslate nohighlight">
+\[P_B = P_X + P_Y\]</div>
+<p>be the price of a basket with one unit of good <span class="math notranslate nohighlight">\(X\)</span> and one of good <span class="math notranslate nohighlight">\(Y\)</span>.  The wage <span class="math notranslate nohighlight">\(w\)</span> can purchase <span class="math notranslate nohighlight">\(\frac{w}{P_B}\)</span> such baskets.</p>
+</div>
+<div class="section" id="prices-in-the-closed-economy">
+<h3>Prices in the closed economy<a class="headerlink" href="#prices-in-the-closed-economy" title="Permalink to this headline">¶</a></h3>
+<p>To produce one unit of <span class="math notranslate nohighlight">\(X\)</span> requires <span class="math notranslate nohighlight">\(a_{LX}=\frac{1}{MPL_X}\)</span> units of labor. Each unit of labor costs <span class="math notranslate nohighlight">\(w\)</span>. Hence the marginal cost of producing <span class="math notranslate nohighlight">\(X\)</span> is</p>
+<div class="math notranslate nohighlight">
+\[MC_X = \frac{w}{MPL_X}\]</div>
+<p>Cmpetitive firms maximize profits where <span class="math notranslate nohighlight">\(P_X=MC_x\)</span> and hence:</p>
+<div class="math notranslate nohighlight">
+\[P_X = \frac{w}{MPL_X}\]</div>
+<p>Similarly in sector <span class="math notranslate nohighlight">\(Y\)</span>, firms price at:</p>
+<div class="math notranslate nohighlight">
+\[P_Y = \frac{w}{MPL_Y}\]</div>
+<p>So the <strong>domestic (or closed economy) relative price of <span class="math notranslate nohighlight">\(X\)</span> measured in terms of good <span class="math notranslate nohighlight">\(Y\)</span></strong> is</p>
+<div class="math notranslate nohighlight">
+\[\frac{P_X}{P_Y} = \frac{MPL_Y}{MPL_X}\]</div>
+<p>which is equal to the slope of the PPF.  Relative prices reflect opportunity costs.</p>
+<p>Note that in this Ricardian model with linear production technologies we have determined equilibrium relative prices without having to specify consumer preferences or demand!  This will not be the case in more general models.</p>
+</div>
+<div class="section" id="interactive-diagram">
+<h3>Interactive diagram<a class="headerlink" href="#interactive-diagram" title="Permalink to this headline">¶</a></h3>
+<p>Visible/interactive if running a jupyter server.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">interact</span><span class="p">(</span><span class="n">rppf</span><span class="p">,</span> <span class="n">mplx</span><span class="o">=</span><span class="p">(</span><span class="mf">0.25</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mf">0.25</span><span class="p">),</span> <span class="n">mply</span><span class="o">=</span><span class="p">(</span><span class="mf">0.25</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mf">0.25</span><span class="p">),</span> <span class="n">lbar</span><span class="o">=</span><span class="p">(</span><span class="mi">25</span><span class="p">,</span> <span class="mi">200</span><span class="p">,</span> <span class="mi">5</span><span class="p">),</span><span class="n">show</span><span class="o">=</span><span class="n">fixed</span><span class="p">(</span><span class="kc">True</span><span class="p">),</span> <span class="n">title</span><span class="o">=</span><span class="n">fixed</span><span class="p">(</span><span class="s1">&#39;Home&#39;</span><span class="p">));</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<script type="application/vnd.jupyter.widget-view+json">
+{"model_id": "6b1e1c93b71846489b771fc2c28b08fd", "version_major": 2, "version_minor": 0}
+</script></div>
+</div>
+</div>
+</div>
+<div class="section" id="home-opens-to-trade-gains-to-trade">
+<h2>Home opens to Trade  –  Gains to Trade<a class="headerlink" href="#home-opens-to-trade-gains-to-trade" title="Permalink to this headline">¶</a></h2>
+<p>Suppose Home has these technologies and resources:</p>
+<div class="math notranslate nohighlight">
+\[\begin{split} 
+MPL_X^* = 1 \text{ units of X/worker}   \\
+MPL_Y^* = 2 \text{ units of X/worker}  \\
+\bar L^* = 100 \text{ workers}
+\end{split}\]</div>
+<p>Then the <strong>opportunity cost of producing one unit of good X</strong> measured in terms of good Y at Home is:</p>
+<div class="math notranslate nohighlight">
+\[\frac{P_X}{P_Y}=\frac{MPL_Y}{MPL_X}= \frac{1}{2}\]</div>
+<p>This is <strong>Home’s autarky relative price of producing good X</strong></p>
+<p>If the world relative price of good X is <span class="math notranslate nohighlight">\(\frac{p_x^w}{p_y^w} = 1\)</span> units of Y then Home is a relatively low cost producer of good X (since 1/2 units of Y per X &lt; 1 units of Y per X). Given Home’s technologies and these world prices Home has a <strong>comparative advantage in the production of good X</strong></p>
+<p>If it opens up to trade producers will find it profitable to continue to expand X production (at the expense of Y production) until the country becomes specialied in the production of X.    At that point the country’s GDP will be <span class="math notranslate nohighlight">\(MPL_X \cdot \bar L\)</span> units of good X which it can trade to the world at the world price of 1 unit of good Y per X.  Hence the citizens of the Home country can consume along the <strong>consumption possibility frontier</strong> given by the world price line running through the specialization point <span class="math notranslate nohighlight">\((q_x=MPL_x\cdot \bar L and  q_y = 0)\)</span></p>
+<p>The specialized economy is depicted below.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">MX</span> <span class="o">=</span> <span class="n">MPLY</span>
+<span class="n">MY</span><span class="o">=</span><span class="n">MPLX</span> <span class="o">*</span><span class="mf">1.25</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">openrppf</span><span class="p">(</span><span class="n">mplx</span><span class="o">=</span><span class="n">MX</span><span class="p">,</span> <span class="n">mply</span><span class="o">=</span><span class="n">MY</span><span class="p">,</span> <span class="n">lbar</span><span class="o">=</span><span class="n">LBAR</span><span class="p">,</span> <span class="n">pw</span><span class="o">=</span><span class="n">MY</span><span class="o">/</span><span class="n">MX</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<img alt="../_images/Ricardian_Trade_44_0.png" src="../_images/Ricardian_Trade_44_0.png" />
+</div>
+</div>
+<div class="section" id="a-two-country-model">
+<h3>A two country model<a class="headerlink" href="#a-two-country-model" title="Permalink to this headline">¶</a></h3>
+<p>Technologies and hence domestic relative prices are different in two countries.</p>
+<p>At Home:
+$<span class="math notranslate nohighlight">\(
+MPL_X = 2  \\
+MPL_Y = 1
+\)</span>$</p>
+<p>In Foreign:
+$<span class="math notranslate nohighlight">\(
+MPL_X^* = 1  \\
+MPL_Y^* = 2
+\)</span>$</p>
+<p>The autarky relative price of X is</p>
+<p>At  HOME: <span class="math notranslate nohighlight">\(\frac{MPL_Y}{MPL_X} = \frac{1}{2}\)</span> units of good Y per X</p>
+<p>In FOREIGN: <span class="math notranslate nohighlight">\(\frac{MPL_Y^*}{MPL_X^*} = \frac{2}{1}\)</span> units of good Y per X</p>
+<p>Home has a comparative advantage at producing X as it is the lower cost producer.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">tworppf</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">100</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">100</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<img alt="../_images/Ricardian_Trade_46_0.png" src="../_images/Ricardian_Trade_46_0.png" />
+</div>
+</div>
+<p>At a world price of <span class="math notranslate nohighlight">\(\frac{p_x^*}{p_y^*}=\frac{3}{4}\)</span> units of good Y per X, Home will specialize at X production and Foreign at Y production, but trade will not balance.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">qx</span><span class="p">,</span> <span class="n">qy</span><span class="p">,</span> <span class="n">cx</span><span class="p">,</span> <span class="n">cy</span> <span class="o">=</span> <span class="n">openeq</span><span class="p">(</span><span class="n">mplx</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span> <span class="n">mply</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">lbar</span><span class="o">=</span><span class="mi">100</span><span class="p">,</span> <span class="n">pw</span><span class="o">=</span><span class="mi">3</span><span class="o">/</span><span class="mi">4</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;qx = </span><span class="si">{</span><span class="n">qx</span><span class="si">}</span><span class="s1">, qy = </span><span class="si">{</span><span class="n">qy</span><span class="si">}</span><span class="s1">, cx = </span><span class="si">{</span><span class="n">cx</span><span class="si">}</span><span class="s1">, cy = </span><span class="si">{</span><span class="n">cy</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Home exports </span><span class="si">{</span><span class="n">qx</span><span class="o">-</span><span class="n">cx</span><span class="si">}</span><span class="s1"> units of good X and imports </span><span class="si">{</span><span class="n">cy</span><span class="o">-</span><span class="n">qy</span><span class="si">}</span><span class="s1"> units of good Y&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>qx = 200, qy = 0, cx = 100.0, cy = 75.0
+Home exports 100.0 units of good X and imports 75.0 units of good Y
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">rtwopane</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">100</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">100</span><span class="p">,</span> <span class="n">p</span><span class="o">=</span><span class="mf">0.75</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<img alt="../_images/Ricardian_Trade_49_0.png" src="../_images/Ricardian_Trade_49_0.png" />
+</div>
+</div>
+<p>We can try to find the equilibrium price by trial and error – by increasing or decreasng the world relative price until trade balances.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">interact</span><span class="p">(</span><span class="n">rtwopane</span><span class="p">,</span> <span class="n">mplx</span><span class="o">=</span><span class="n">fixed</span><span class="p">(</span><span class="mi">2</span><span class="p">),</span> <span class="n">mply</span><span class="o">=</span><span class="n">fixed</span><span class="p">(</span><span class="mi">1</span><span class="p">),</span> <span class="n">lbar</span><span class="o">=</span><span class="n">fixed</span><span class="p">(</span><span class="mi">100</span><span class="p">),</span>  <span class="n">mplfx</span><span class="o">=</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mf">0.1</span><span class="p">),</span> <span class="n">mplfy</span><span class="o">=</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mf">0.1</span><span class="p">),</span> 
+         <span class="n">lbarf</span><span class="o">=</span><span class="p">(</span><span class="mi">50</span><span class="p">,</span> <span class="mi">200</span><span class="p">,</span> <span class="mi">10</span><span class="p">),</span><span class="n">p</span><span class="o">=</span><span class="p">(</span><span class="mf">0.2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mf">0.1</span><span class="p">));</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<script type="application/vnd.jupyter.widget-view+json">
+{"model_id": "c37a048984af4794b65031ad0c8c8ac7", "version_major": 2, "version_minor": 0}
+</script></div>
+</div>
+<p>To find a world equilibrium price consistent with balanced trade we only need to find where the market for one good clears.  The <code class="docutils literal notranslate"><span class="pre">worldeq</span></code> function finds this relative price by findind the price at which world excess demand for good X is set to zero.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">rworldprice</span><span class="p">(</span><span class="n">mplx</span><span class="o">=</span><span class="mi">2</span><span class="p">,</span> <span class="n">mply</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">lbar</span><span class="o">=</span><span class="mi">100</span><span class="p">,</span> <span class="n">mplfx</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">mplfy</span><span class="o">=</span><span class="mi">3</span><span class="p">,</span> <span class="n">lbarf</span><span class="o">=</span><span class="mi">100</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>1.5000000000000002
+</pre></div>
+</div>
+</div>
+</div>
+<p>The <code class="docutils literal notranslate"><span class="pre">worldeq</span></code> finds the world equilibrium price.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">interact_manual</span><span class="p">(</span><span class="n">rworldeq</span><span class="p">,</span> <span class="n">mplx</span><span class="o">=</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mf">0.1</span><span class="p">),</span> <span class="n">mply</span><span class="o">=</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mf">0.1</span><span class="p">),</span> <span class="n">lbar</span><span class="o">=</span><span class="p">(</span><span class="mi">50</span><span class="p">,</span> <span class="mi">200</span><span class="p">,</span> <span class="mi">10</span><span class="p">),</span>  <span class="n">mplfx</span><span class="o">=</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mf">0.1</span><span class="p">),</span> <span class="n">mplfy</span><span class="o">=</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mf">0.1</span><span class="p">),</span> 
+         <span class="n">lbarf</span><span class="o">=</span><span class="p">(</span><span class="mi">50</span><span class="p">,</span> <span class="mi">200</span><span class="p">,</span> <span class="mi">10</span><span class="p">));</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<script type="application/vnd.jupyter.widget-view+json">
+{"model_id": "b2d56f4c57b547c1a2501c452e5f6c4e", "version_major": 2, "version_minor": 0}
+</script></div>
+</div>
+</div>
+</div>
+<div class="section" id="more-fun">
+<h2>More fun<a class="headerlink" href="#more-fun" title="Permalink to this headline">¶</a></h2>
+<p>We can switch to a XKCD comic style of graph, to make them seem more hand drawn.</p>
+<p>It’s a good idea however to store current matplotlib settings in case we want to restore things later.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">mpl_state</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">rcParams</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">xkcd</span><span class="p">()</span>  <span class="c1"># switch to xkcd look</span>
+<span class="n">interact</span><span class="p">(</span><span class="n">openrppf</span><span class="p">,</span> <span class="n">mplx</span><span class="o">=</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mf">0.1</span><span class="p">),</span><span class="n">mply</span><span class="o">=</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mf">0.1</span><span class="p">),</span> <span class="n">lbar</span><span class="o">=</span><span class="p">(</span><span class="mi">50</span><span class="p">,</span><span class="mi">200</span><span class="p">,</span><span class="mi">10</span><span class="p">),</span><span class="n">pw</span><span class="o">=</span><span class="p">(</span><span class="mf">0.5</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mf">0.1</span><span class="p">)</span> <span class="p">);</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<script type="application/vnd.jupyter.widget-view+json">
+{"model_id": "6a8bf3bbedc34703a04b6b80e3c523a1", "version_major": 2, "version_minor": 0}
+</script></div>
+</div>
+<p>#Now reset to more standard matplotlib style.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1">#plt.rcParams.update(mpl_state)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./notebooks"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        </div>
+    </div>
+    
+    
+    <div class='prev-next-bottom'>
+        
+    <a class='left-prev' id="prev-link" href="../notes/TradeModelsStructure.html" title="previous page">Trade Models Structure</a>
+    <a class='right-next' id="next-link" href="SFM.html" title="next page">The Specific Factors Model</a>
+
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Jonathan Conning<br/>
+        
+            &copy; Copyright 2020.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+
+    
+  <script src="../_static/js/index.d3f166471bb80abb5163.js"></script>
+
+
+    
+  </body>
+</html>
