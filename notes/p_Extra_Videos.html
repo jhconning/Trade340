@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>M02 The Ricardian Model &#8212; Eco 340 International Trade (Hunter Economics)</title>
+    <title>List of Extra Videos &#8212; Eco 340 International Trade (Hunter Economics)</title>
     
   <link rel="stylesheet" href="../_static/css/index.f658d18f9b420779cfdf24aa0a7e2d77.css">
 
@@ -56,8 +56,8 @@
     <script async="async" src="../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="The Ricardian Model" href="Ricardo.html" />
-    <link rel="prev" title="Read: Technology, Trade and Jobs" href="RQ_Jobs.html" />
+    <link rel="next" title="M01 Introduction" href="M01_Intro.html" />
+    <link rel="prev" title="Zoom and announcements" href="Zoom.html" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
@@ -99,7 +99,7 @@
   Course Details
  </span>
 </p>
-<ul class="nav sidenav_l1">
+<ul class="current nav sidenav_l1">
  <li class="toctree-l1">
   <a class="reference internal" href="Welcome.html">
    Welcome
@@ -115,13 +115,18 @@
    Zoom and announcements
   </a>
  </li>
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   List of Extra Videos
+  </a>
+ </li>
 </ul>
 <p class="caption collapsible-parent">
  <span class="caption-text">
   Content Modules
  </span>
 </p>
-<ul class="current nav sidenav_l1">
+<ul class="nav sidenav_l1">
  <li class="toctree-l1 collapsible-parent">
   <a class="reference internal" href="M01_Intro.html">
    M01 Introduction
@@ -130,20 +135,6 @@
    <li class="toctree-l2">
     <a class="reference internal" href="RQ_Jobs.html">
      Read: Technology, Trade and Jobs
-    </a>
-   </li>
-  </ul>
-  <i class="fas fa-chevron-down">
-  </i>
- </li>
- <li class="toctree-l1 current active collapsible-parent">
-  <a class="current reference internal" href="#">
-   M02 The Ricardian Model
-  </a>
-  <ul class="collapse-ul">
-   <li class="toctree-l2">
-    <a class="reference internal" href="Ricardo.html">
-     The Ricardian Model
     </a>
    </li>
   </ul>
@@ -215,7 +206,12 @@
 <ul class="nav sidenav_l1">
  <li class="toctree-l1">
   <a class="reference internal" href="how.html">
-   How this site was built
+   How this site was made (and why)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="jb_tricks.html">
+   Using Jupyterbook
   </a>
  </li>
  <li class="toctree-l1">
@@ -244,7 +240,12 @@
 <ul class="nav sidenav_l1">
  <li class="toctree-l1">
   <a class="reference internal" href="how.html">
-   How this site was built
+   How this site was made (and why)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="jb_tricks.html">
+   Using Jupyterbook
   </a>
  </li>
  <li class="toctree-l1">
@@ -292,7 +293,7 @@
         <!-- ipynb file if we had a myst markdown file -->
         
         <!-- Download raw file -->
-        <a class="dropdown-buttons" href="../_sources/notes/M02_Ricardian.md"><button type="button"
+        <a class="dropdown-buttons" href="../_sources/notes/p_Extra_Videos.md"><button type="button"
                 class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
@@ -330,6 +331,88 @@
     <!-- Table of contents -->
     <div class="d-none d-md-block col-md-2 bd-toc show">
         
+        <div class="tocsection onthispage pt-5 pb-3">
+            <i class="fas fa-list"></i> Contents
+        </div>
+        <nav id="bd-toc-nav">
+            <ul class="nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#economic-principles">
+   Economic Principles
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#budget-constraints">
+     Budget Constraints
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#budget-constraint-with-income-from-production">
+     Budget Constraint with income from production
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#consumer-choice-and-indifference-curves">
+     Consumer Choice and Indifference Curves
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id1">
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#ricardian-model">
+   Ricardian Model
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#simple-derivation-of-the-ppf">
+     Simple Derivation of the PPF
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#the-closed-economy-ppf-is-the-cpf">
+     The closed economy PPF is the CPF
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#the-ppf-four-quadrant-derivation-extra">
+     The PPF: Four Quadrant Derivation (extra)
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#market-prices-and-wages-in-the-ricardian-model">
+     Market Prices and Wages in the Ricardian Model
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#real-wages-in-the-closed-economy">
+     Real Wages in The Closed Economy
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#gains-to-trade-in-the-ricardian-model">
+     Gains to Trade in The Ricardian Model
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#exports-and-imports-in-the-ricardian-model">
+     Exports and Imports in The Ricardian Model
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#two-country-ricardian-model">
+     Two Country Ricardian Model
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+        </nav>
+        
     </div>
 </div>
     <div id="main-content" class="row">
@@ -337,10 +420,59 @@
         
               <div>
                 
-  <div class="section" id="m02-the-ricardian-model">
-<h1>M02 The Ricardian Model<a class="headerlink" href="#m02-the-ricardian-model" title="Permalink to this headline">¶</a></h1>
-<p>Content here</p>
-<div class="toctree-wrapper compound">
+  <div class="section" id="list-of-extra-videos">
+<h1>List of Extra Videos<a class="headerlink" href="#list-of-extra-videos" title="Permalink to this headline">¶</a></h1>
+<p>These are short-ish videos on select topics. Most of these have been embedded in other tophat pages, but you can find a list here.</p>
+<p>[[&#64;toc]]</p>
+<hr class="docutils" />
+<div class="section" id="economic-principles">
+<h2>Economic Principles<a class="headerlink" href="#economic-principles" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="budget-constraints">
+<h3>Budget Constraints<a class="headerlink" href="#budget-constraints" title="Permalink to this headline">¶</a></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQKtRJsLFhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="section" id="budget-constraint-with-income-from-production">
+<h3>Budget Constraint with income from production<a class="headerlink" href="#budget-constraint-with-income-from-production" title="Permalink to this headline">¶</a></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-j4yml6F7w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="section" id="consumer-choice-and-indifference-curves">
+<h3>Consumer Choice and Indifference Curves<a class="headerlink" href="#consumer-choice-and-indifference-curves" title="Permalink to this headline">¶</a></h3>
+<p>Used in <a class="reference external" href="https://app.tophat.com/e/054232/page/272358794">M02_Ricardian/Consumer Choice and Indifference Curves</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TcUwR9KERlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="section" id="id1">
+<h3><a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
+</div>
+</div>
+<div class="section" id="ricardian-model">
+<h2>Ricardian Model<a class="headerlink" href="#ricardian-model" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="simple-derivation-of-the-ppf">
+<h3>Simple Derivation of the PPF<a class="headerlink" href="#simple-derivation-of-the-ppf" title="Permalink to this headline">¶</a></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IRUZYXMciXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="section" id="the-closed-economy-ppf-is-the-cpf">
+<h3>The closed economy PPF is the CPF<a class="headerlink" href="#the-closed-economy-ppf-is-the-cpf" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="the-ppf-four-quadrant-derivation-extra">
+<h3>The PPF: Four Quadrant Derivation (extra)<a class="headerlink" href="#the-ppf-four-quadrant-derivation-extra" title="Permalink to this headline">¶</a></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5XDU8xTJxMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>Asociated geogebra app <a class="reference external" href="https://www.geogebra.org/classic/zzvjzktm">here</a></p>
+</div>
+<div class="section" id="market-prices-and-wages-in-the-ricardian-model">
+<h3>Market Prices and Wages in the Ricardian Model<a class="headerlink" href="#market-prices-and-wages-in-the-ricardian-model" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="real-wages-in-the-closed-economy">
+<h3>Real Wages in The Closed Economy<a class="headerlink" href="#real-wages-in-the-closed-economy" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="gains-to-trade-in-the-ricardian-model">
+<h3>Gains to Trade in The Ricardian Model<a class="headerlink" href="#gains-to-trade-in-the-ricardian-model" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="exports-and-imports-in-the-ricardian-model">
+<h3>Exports and Imports in The Ricardian Model<a class="headerlink" href="#exports-and-imports-in-the-ricardian-model" title="Permalink to this headline">¶</a></h3>
+</div>
+<div class="section" id="two-country-ricardian-model">
+<h3>Two Country Ricardian Model<a class="headerlink" href="#two-country-ricardian-model" title="Permalink to this headline">¶</a></h3>
+</div>
 </div>
 </div>
 
@@ -372,8 +504,8 @@
     
     <div class='prev-next-bottom'>
         
-    <a class='left-prev' id="prev-link" href="RQ_Jobs.html" title="previous page">Read: Technology, Trade and Jobs</a>
-    <a class='right-next' id="next-link" href="Ricardo.html" title="next page">The Ricardian Model</a>
+    <a class='left-prev' id="prev-link" href="Zoom.html" title="previous page">Zoom and announcements</a>
+    <a class='right-next' id="next-link" href="M01_Intro.html" title="next page">M01 Introduction</a>
 
     </div>
     <footer class="footer mt-5 mt-md-0">

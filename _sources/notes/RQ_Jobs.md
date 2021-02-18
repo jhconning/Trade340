@@ -1,9 +1,9 @@
 ---
 title: RQ_Jobs
 title_custom: true
-tags: [Notebooks/Modules/M01_Intro]
+tags: [iframe, Notebooks/Modules/M01_Intro]
 created: '2021-01-29T16:31:58.981Z'
-modified: '2021-01-29T16:45:24.994Z'
+modified: '2021-02-05T02:26:01.123Z'
 ---
 
 # Read: Technology, Trade and Jobs
@@ -32,15 +32,6 @@ Please watch this TedTalk video by MIT economist David Autor and then answer the
 	*d. Luddites
 
 
-2. In the video David Autor refers to 19th century English workers who destroyed machinery that they believed were threatening their jobs. He refers to this group as ___________
-
-	a. Marxists
-
-	b. Physiocrats
-
-	c. Ricardians
-  
-	*d. Luddites
-
-
 ```
+
+

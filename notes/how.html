@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>How this site was built &#8212; Eco 340 International Trade (Hunter Economics)</title>
+    <title>How this site was made (and why) &#8212; Eco 340 International Trade (Hunter Economics)</title>
     
   <link rel="stylesheet" href="../_static/css/index.f658d18f9b420779cfdf24aa0a7e2d77.css">
 
@@ -56,7 +56,7 @@
     <script async="async" src="../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="How to Embed Geogebra" href="../notebooks/embed_geogebra.html" />
+    <link rel="next" title="Using Jupyterbook" href="jb_tricks.html" />
     <link rel="prev" title="Increasing returns, Monopolistic Competition" href="../notebooks/IRS_monopolistic.html" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -115,6 +115,11 @@
    Zoom and announcements
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="p_Extra_Videos.html">
+   List of Extra Videos
+  </a>
+ </li>
 </ul>
 <p class="caption collapsible-parent">
  <span class="caption-text">
@@ -130,20 +135,6 @@
    <li class="toctree-l2">
     <a class="reference internal" href="RQ_Jobs.html">
      Read: Technology, Trade and Jobs
-    </a>
-   </li>
-  </ul>
-  <i class="fas fa-chevron-down">
-  </i>
- </li>
- <li class="toctree-l1 collapsible-parent">
-  <a class="reference internal" href="M02_Ricardian.html">
-   M02 The Ricardian Model
-  </a>
-  <ul class="collapse-ul">
-   <li class="toctree-l2">
-    <a class="reference internal" href="Ricardo.html">
-     The Ricardian Model
     </a>
    </li>
   </ul>
@@ -215,7 +206,12 @@
 <ul class="current nav sidenav_l1">
  <li class="toctree-l1 current active">
   <a class="current reference internal" href="#">
-   How this site was built
+   How this site was made (and why)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="jb_tricks.html">
+   Using Jupyterbook
   </a>
  </li>
  <li class="toctree-l1">
@@ -244,7 +240,12 @@
 <ul class="current nav sidenav_l1">
  <li class="toctree-l1 current active">
   <a class="current reference internal" href="#">
-   How this site was built
+   How this site was made (and why)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="jb_tricks.html">
+   Using Jupyterbook
   </a>
  </li>
  <li class="toctree-l1">
@@ -356,6 +357,21 @@
         <nav id="bd-toc-nav">
             <ul class="nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#the-problem">
+   The Problem
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#a-solution-of-sorts">
+   A solution of sorts
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#some-details-of-how-it-works">
+   Some details of how it works
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#interactive-apps">
    Interactive ‘apps’
   </a>
@@ -371,10 +387,31 @@
         
               <div>
                 
-  <div class="section" id="how-this-site-was-built">
-<h1>How this site was built<a class="headerlink" href="#how-this-site-was-built" title="Permalink to this headline">¶</a></h1>
-<p>This site’s content was written with <a class="reference external" href="https://commonmark.org/help/">markdown</a> and jupyter notebook files and then rendered as this static HTML website (via github pages).</p>
-<p>This site supports the Spring 2021 Eco 340 <a class="reference external" href="https://app.tophat.com/e/054232">tophat course site</a>. Tophat is used to deliver online assignments and some reading,  multimedia and interactive content.  Much of the content mirrored there was first edited here.</p>
+  <div class="section" id="how-this-site-was-made-and-why">
+<h1>How this site was made (and why)<a class="headerlink" href="#how-this-site-was-made-and-why" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="the-problem">
+<h2>The Problem<a class="headerlink" href="#the-problem" title="Permalink to this headline">¶</a></h2>
+<p>Learning Management Systems (LMS) such as Tophat (or Blackboard, Canvas, etc) render content as HTML in the browser but have proprietary ways for creating, editing, and storing content.</p>
+<p>Although these LMS page creation tools appear to be built around open standard formats such as markdown, HTML and Katex (for math), they make it hard to take content that you might have typed into the LMS back out again.  For example in Tophat:</p>
+<ul class="simple">
+<li><p>You usually can’t simply copy content from a Tophat page and paste it into a word processor, or vice-versa.</p></li>
+<li><p>Once you insert an image or embed using an <code class="docutils literal notranslate"><span class="pre">&lt;iframe&gt;</span></code> there is no evident way to recover the image filename or the iframe syntax you used.</p></li>
+<li><p>You can upload certain types of questions in text form, but once uploaded you cannot export back to text.</p></li>
+</ul>
+<p>All this frustrates logical content creation and feedback loop processes. It becomes all but impossible to keep content under version control.</p>
+<p>Large content creation providers (and any corporation that wants to manage website updates in a logical coherent manner) have, of course, long recognized this problem.  LMS systems do in principle support exchanging content using a standard called SCORM.  There are ‘SCORM authoring systems’ that allow users to create and organize content on the authoring platform and then export to whatever LMS system is needed.  But these authoring systems can be expensive or hard to use, and LMS systems such as Blackboard and Tophat don’t at all make it easy for consumer users to access this functionality (e.g. Tophat mentions on its website that it is SCORM compatible but no evident import or export functionality is made available).</p>
+</div>
+<div class="section" id="a-solution-of-sorts">
+<h2>A solution of sorts<a class="headerlink" href="#a-solution-of-sorts" title="Permalink to this headline">¶</a></h2>
+<p>It’s become quite easy to create nice looking websites using markdown, katex and a few simple tools.</p>
+<p>My aim here is to show how we can have a markdown-based content creation system to organize content into a website that can be kept under version control and can then be rendered in HTML in a format that largely replicates what things will look like in the LMS (minus actually working autograded questions).</p>
+<p>My immediate use, is to help me keep materials organized for teaching my Eco 100 (Intro to Economics) and Eco 340 (International Trade) courses.  A longer term goal is to use workflows like these to make it easier to collectively write and edit the ‘Hunter Experience’ textbook.</p>
+</div>
+<div class="section" id="some-details-of-how-it-works">
+<h2>Some details of how it works<a class="headerlink" href="#some-details-of-how-it-works" title="Permalink to this headline">¶</a></h2>
+<p>All the content of this site written in <a class="reference external" href="https://commonmark.org/help/">markdown</a> either in simple markdown files or using markdown and code in jupyter notebooks. The files are kept under version control in a github repository.
+I use the jupyterbook package to create a static HTML website that renders the content files as HTML (similar to how they might look on an LMS).  I can render this website locally on my computer or trigger online via github pages.</p>
+<p>and a mock-up of the <a class="reference external" href="https://app.tophat.com/e/054232">tophat course site</a> materials for a course. Tophat is used to deliver online assignments and some reading,  multimedia and interactive content.  Much of the content mirrored there was first edited here.</p>
 <p>Tools used:</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://jupyterbook.org">Jupyter Book</a> - Creates website with markdown and jupyter notebooks.  Files used for site are listed in the <span class="xref myst">_toc.yml</span> table of contents file.</p></li>
@@ -382,12 +419,14 @@
 <li><p><a class="reference external" href="https://notable.app/">Notable</a> (<a class="reference external" href="https://github.com/notable/notable-insiders/releases">beta release</a>). Useful markdown app that keeps things organized with tags.</p></li>
 <li><p><a class="reference external" href="https://yaml.org/">YAML headers</a>  - if you look at the raw markdown files you will see metadata (title, date created, modified, tags, etc) information stored in the header (before the <code class="docutils literal notranslate"><span class="pre">---</span></code> separator).  Notable and jupyterbook use this information but it is hidden on rendered pages.</p></li>
 </ul>
+</div>
 <div class="section" id="interactive-apps">
 <h2>Interactive ‘apps’<a class="headerlink" href="#interactive-apps" title="Permalink to this headline">¶</a></h2>
 <p>On some pages you’ll see interactive widgets that allow you to interact with graphs.  All the embedded geogebra apps (javascript) should be interactive in any browser with an internet connection. To interact with python apps you’ll usually have to launch the page first using the binder or Google Colab buttons that you’ll see on the page.</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://www.geogebra.org/">Geogebra</a></p></li>
 <li><p><a class="reference external" href="https://github.com/jhconning/Econ-Teach/tree/master/notebooks">Econ-Teach/trade</a> python applets</p></li>
+<li><p>Embedded videos</p></li>
 </ul>
 </div>
 </div>
@@ -421,7 +460,7 @@
     <div class='prev-next-bottom'>
         
     <a class='left-prev' id="prev-link" href="../notebooks/IRS_monopolistic.html" title="previous page">Increasing returns, Monopolistic Competition</a>
-    <a class='right-next' id="next-link" href="../notebooks/embed_geogebra.html" title="next page">How to Embed Geogebra</a>
+    <a class='right-next' id="next-link" href="jb_tricks.html" title="next page">Using Jupyterbook</a>
 
     </div>
     <footer class="footer mt-5 mt-md-0">
