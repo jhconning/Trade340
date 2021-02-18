@@ -2,15 +2,16 @@
 title: Krugman In Praise
 title_custom: true
 tags: [draft, Notebooks/Modules/M02_Ricardo, Notebooks/Readings/Ricardian]
+pinned: true
 created: '2019-09-04T12:11:22.610Z'
-modified: '2021-01-27T23:57:04.980Z'
+modified: '2021-02-04T06:10:26.473Z'
 ---
 
 ## Krugman in Praise of Cheap Labor
 
 - ""While fat-cat capitalists might benefit from globalization, the biggest beneficiaries are, yes, Third-World workers."
 
-  I disagree with what he had said here, the biggest beneficiaries are Third-World *capitalists*. Businesses move their production to the third because it can cut costs and boost profits.  But labor in any part of the world cannot compete with the machines of the future.  Growth is entirely unequal and that we also know inequality is detrimental to future growth."
+  I disagree with what he had said here, the biggest beneficiaries are Third-World *capitalists*. Businesses move their production to the third world because it can cut costs and boost profits.  But labor in any part of the world cannot compete with the machines of the future.  Growth is entirely unequal and that we also know inequality is detrimental to future growth."
 
   - Factors of production; residual claimants.
 
@@ -19,7 +20,9 @@ modified: '2021-01-27T23:57:04.980Z'
   **Questions:**
 
 - What happens to those countries that improve standards, but there is still a huge gap between poor and middle class? How does that get solved?
+
 - Is it ethical to leave wage growth up to simple economic mechanics?
+
 - Why is it impossible to think that offering better working conditions would NOT create a privileged aristocracy and would instead create a social and cultural ripple effect in which better working conditions and possibly higher wages are considered the norm? In this scenario, those who do experience the better working conditions and higher pay can pass on these practices when starting their own businesses domestically.
 
 Why can't developing countries gain from trade?

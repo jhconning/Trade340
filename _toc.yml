@@ -6,6 +6,7 @@
     - file: notes/Welcome
     - file: notes/Instructors
     - file: notes/Zoom
+    - file: notes/p_Extra_Videos
     
 - part: Content Modules
   chapters:
@@ -16,7 +17,8 @@
 
     - file: notes/M02_Ricardian
       sections:
-        - file: notes/Ricardo
+        - file: notes/p_ConsumerPreferences
+        - file: notes/p_TheRicardian_Model
         
     - file: notes/M03-Specific
       sections:

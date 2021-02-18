@@ -3,7 +3,7 @@ title: Zoom
 title_custom: true
 tags: [Notebooks/Modules/Course Info]
 created: '2021-01-29T04:27:22.125Z'
-modified: '2021-01-29T19:38:37.936Z'
+modified: '2021-01-30T20:00:24.967Z'
 ---
 
 # Zoom and announcements
@@ -16,9 +16,9 @@ You must have Tophat open in a computer browser tab  (or phone or tablet app) to
 
 At the agreed time, click on the zoom link: 
 
-https://us02web.zoom.us/j/83268430587?pwd=RjlYemZQaytieHRaZUVzL3crS21EUT09
 
-Or join from the zoom app using **meeting ID 832 6843 0587 and passcode 100100.**
+
+Or join from the zoom app using **meeting ID 889 5188 8201 and passcode 340340.**
 
 
 ## Past Zoom recordings
