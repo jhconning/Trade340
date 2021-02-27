@@ -1,0 +1,109 @@
+1. RMM101 The Ricardian Model is named after David Ricardo (1772-1823), considered today one of the most influential 'Classical Economists' along with Thomas Malthus, Adam Smith, and Karl Marx.  In addition to writing about Political Economy David Ricardo was also _____.
+<img src="../attachments/440px-Portrait_of_David_Ricardo_by_Thomas_Phillips.jpg" alt="Ricardo" style="zoom:33%;" />
+
+a. A wealth landlord and defender of Agrarian interests
+b. A radical labor organizer
+*c. A wealthy stockbroker and member of the British Parliament.
+d. An English cleric
+
+
+<!-- Image from Wikipedia -->
+1. RM1102 The Ricardian theory of comparative advantage states that a country has a comparative advantage at wheat production if
+
+a. output per worker of wheat is higher in that country than other countries.
+b. wage rates in that country are low.
+*c. wheat is produced at lower opportunity cost compared to other countries.
+d. Wheat is land-intensive and the country has a lot of land.
+2. RM1103 A country’s pattern of trade is determined by comparative advantage.  If however a country has an absolute dis-advantage at producing both goods compared to its trading partners we would predict that country
+
+a. would run a trade deficit
+b. would run a trade surplus
+*c. has a lower equilibrium wage rate 
+d. has a higher equilibrium wage rate
+
+1. RMM109 In the Ricardian model when a country requires fewer resources to produce a given level of output of a product compared to other countries, it is said to have a(n):
+
+a. Lower opportunity cost of producing the product
+b. Higher opportunity cost of producing the product
+*c. An absolute advantage in the production of the product
+d. A comparative advantage in product’s production
+1. RMM110 What is the marginal product of labor?
+
+a. the total output obtained by using one more unit of labor
+b. the total output divided by total amount of labor input 
+*c. the extra output obtained by using one more unit of labor
+d. the product price multiplied by the average product of labor
+
+
+1. RMM111 Suppose that workers in the home country can produce 3 cars or 2 televisions.  Home has 4 workers. What is the no-trade relative price of cars at home Pc/Pt? 
+
+a. 2/3 cars per television
+*b. 2/3 televisions per car
+c.  8 televisions per car
+d. 12 cars per television
+
+
+
+
+1. RMM110 Consider the PPF below, with TVs on the horizontal axis and Cars on the vertical axis. What is the no-trade relative price of cars?
+![](../attachments/RMM110_image.png)
+
+a. 16 cars per television
+b. 1/2 car per television
+*c. 2 cars per television
+d. 1 car per television
+
+1. RMM113 Assume a Ricardian model with fixed labor requirements in which the United States had an absolute advantage in both industries compared to Mexico. Mexico is specialized in producing Avocados and the US is specialized in producing SUV trucks.  Suppose now that Mexican workers in both Avocados and the Mexican SUV truck sector improve their productivity (US productivity unchanged). The pattern of comparative advantage does not change.  The expected effect includes:
+
+a. US workers real wages fall as they face increased competition from now more productive Mexican labor
+*b. Relative product prices change and US workers real wages increase
+c. Mexican workers become unemployed and Mexican wages fall as higher productivity renders many workers redundant. 
+d. The rental rate of capital in Mexico rises.
+1. RMM114 Suppose an economy produces two goods: food and machines. This economy always operates on its production possibilities frontier. Last year, it produced 50 units of food and 30 machines. This year, it is producing 55 units of food and 33 machines. Which of the following would NOT explain the increase in output?
+
+*a. An increase in emigration (people leaving the country)
+b. An increase in the labor force
+c. An improvement in technology
+d. An increase in worker productivity
+1. RMM115 The table below reports hours of labor it takes to produce each of the items. If these two countries traded based on comparative advantage, which of these would you want to be?
+![](../attachments/RMM115.png)
+
+a. A car manufacturer in USA
+*b. A car manufacturer in Canada
+
+1. RMM116 Jack and Jill live on two adjacent islands. They can each produce apples and shirts. Their PPFs  is as below.  If they decide to trade with each other how will they specialize?
+
+![](../attachments/RMM116.png)
+
+a. Jill will produce apples; Jack will produce shirts
+*b. Jack will produce apples; Jill will produce shirts
+c. They'
+d. 
+1. RMM201 From the table below, the opportunity cost of producing a unit of cloth, measured in terms of widgets, is ________ in Home and ________ in foreign.
+
+![](../attachments/examtable1.png)
+
+a. 10/12,  20/6 
+b. 6/20,  12/10
+c. 1/2,  2
+*d. 2,  1/2
+
+[//]: # (RMM202 uses same table)
+1. RMM204 Suppose the marginal product of a worker is  MPLB = 14 bunches of bananas per worker per day and the country is specialized in the production of Bananas.  The country exchanges Bananas for Gadgets at world relative price or $\frac{P_B}{P_G}=2$ gadgets per banana.  What is $\frac{w}{P_G}$, the real wage of a worker (measured in gadgets purchasing power)?
+
+a. 7 gadgets per day
+b. 14 gadgets per day
+*c. 28 gadgets per day
+d. 2 gadgets per day
+1. RMM205 In the Ricardian model the slope of the PPF can be expressed as: 
+
+*a. the ratio of the marginal products of labor in producing each good
+b. the ratio of the quantities of good 1 and good 2.
+c. the ratio of total capital to labor.
+d. Price times the average marginal product of labor between the two sectors
+1. RMM206 If Japan can produce 3 rice cakes or 6 seaweed salads in an hour, while Indonesia can produce 2 rice cakes and 5 seaweed salads in an hour, which of the following is true?
+
+a. Japan has a comparative advantage in producing both goods.
+b. Japan has a comparative advantage in producing seaweed salads.
+c. Indonesia has a comparative advantage in producing rice cakes.
+*d. Indonesia has a comparative advantage in producing seaweed salads.

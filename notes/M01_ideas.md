@@ -1,8 +1,8 @@
 ---
 title: M01_ideas
-tags: [ideas, Notebooks/Modules/M01_Intro]
+tags: [_Book/Modules, _Book/Modules/M01_Intro, ideas, ideas/Mods]
 created: '2021-01-28T15:19:52.638Z'
-modified: '2021-02-01T06:24:38.080Z'
+modified: '2021-02-23T14:08:57.124Z'
 ---
 
 # M01_ideas

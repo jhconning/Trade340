@@ -1,9 +1,10 @@
 ---
 title: Ricardian_questions
 attachments: [Clipboard_2021-02-01-00-51-31.png, Clipboard_2021-02-01-00-51-53.png]
-tags: [Notebooks/Questions/Ricardian, questions]
+tags: [questions, Questions/Ricardian]
+deleted: true
 created: '2021-02-01T05:50:00.411Z'
-modified: '2021-02-09T15:25:38.115Z'
+modified: '2021-02-22T06:09:42.442Z'
 ---
 
 ## Ricardian_questions

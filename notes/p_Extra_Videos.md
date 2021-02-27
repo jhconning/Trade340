@@ -1,9 +1,9 @@
 ---
 title: p_Extra_Videos
 title_custom: true
-tags: [Notebooks/Modules/M02_Ricardo]
+tags: [_Book/Modules, _Book/Modules/M02_Ricardo]
 created: '2021-02-17T19:30:54.277Z'
-modified: '2021-02-18T05:57:49.991Z'
+modified: '2021-02-23T14:08:57.126Z'
 ---
 
 # List of Extra Videos

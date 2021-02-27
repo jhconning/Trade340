@@ -1,9 +1,9 @@
 ---
 title: M00_Slides
 title_custom: true
-tags: [Notebooks/Modules/M01_Intro, posted]
+tags: [_Book/Modules, _Book/Modules/M01_Intro, x/posted]
 created: '2021-02-02T02:31:18.379Z'
-modified: '2021-02-02T02:33:19.756Z'
+modified: '2021-02-23T14:08:57.123Z'
 ---
 
 # M00 Slides

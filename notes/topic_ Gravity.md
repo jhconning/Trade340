@@ -1,8 +1,8 @@
 ---
 title: topic_ Gravity
-tags: [Notebooks/Resources/topic_ideas]
+tags: [ideas/Topic]
 created: '2021-02-01T03:30:11.062Z'
-modified: '2021-02-01T03:30:17.239Z'
+modified: '2021-02-22T06:21:02.286Z'
 ---
 
 # topic_ Gravity

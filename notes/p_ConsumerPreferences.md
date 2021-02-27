@@ -1,9 +1,9 @@
 ---
 title: p_ConsumerPreferences
 title_custom: true
-tags: [Notebooks/Modules/M02_Ricardo, Notebooks/tophat/page]
+tags: [_Book/Modules, _Book/Modules/M02_Ricardo, _Book/type]
 created: '2021-02-15T05:11:56.308Z'
-modified: '2021-02-17T19:17:25.253Z'
+modified: '2021-02-23T16:28:24.655Z'
 ---
 
 # Consumer Preferences and Indifference Curves

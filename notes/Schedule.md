@@ -1,9 +1,9 @@
 ---
 title: Schedule
 title_custom: true
-tags: [Notebooks/Modules/Course Info]
+tags: [_Book/Modules, _Book/Modules/Course Info]
 created: '2021-01-30T20:37:31.978Z'
-modified: '2021-01-31T05:13:48.384Z'
+modified: '2021-02-23T14:11:02.065Z'
 ---
 
 # Course Schedule 

@@ -1,8 +1,8 @@
 ---
 title: topic_ Real Wages
-tags: [Notebooks/Resources/topic_ideas]
+tags: [ideas/Topic]
 created: '2021-02-01T05:38:15.395Z'
-modified: '2021-02-01T05:40:25.935Z'
+modified: '2021-02-22T06:21:02.287Z'
 ---
 
 # topic_ Real Wages

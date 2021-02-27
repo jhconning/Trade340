@@ -1,9 +1,9 @@
 ---
 title: Useful Images
 attachments: [Clipboard_2021-02-13-15-25-17.png, Clipboard_2021-02-13-15-40-50.png]
-tags: [Notebooks/Resources/Images]
+tags: [has/image, ideas, ideas/resources]
 created: '2021-02-13T20:22:45.565Z'
-modified: '2021-02-13T20:40:50.535Z'
+modified: '2021-02-23T16:23:24.083Z'
 ---
 
 # Useful Images

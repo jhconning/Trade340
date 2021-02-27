@@ -1,8 +1,8 @@
 ---
 title: embed_geogebra.ipynb
-tags: [geogebra, Notebooks/Modules/M95_Site]
+tags: [_Book/Modules, _Book/Modules/M95_Site, x/geogebra]
 created: '2021-01-28T08:10:21.614Z'
-modified: '2021-02-02T20:54:50.552Z'
+modified: '2021-02-23T14:08:57.119Z'
 ---
 
 # embed_geogebra.ipynb

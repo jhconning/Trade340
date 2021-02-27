@@ -1,7 +1,8 @@
 ---
 title: Consumer Preferences and Indifference Curves
+tags: [_Book/Modules/M01_Intro]
 created: '2021-02-18T03:03:17.234Z'
-modified: '2021-02-18T03:03:17.524Z'
+modified: '2021-02-23T14:08:57.118Z'
 ---
 
 # Consumer Preferences and Indifference Curves

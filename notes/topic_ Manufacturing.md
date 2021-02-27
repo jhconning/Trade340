@@ -1,9 +1,9 @@
 ---
 title: topic_ Manufacturing
 attachments: [Clipboard_2021-02-01-00-37-19.png]
-tags: [Notebooks/Resources/topic_ideas]
+tags: [ideas/Topic]
 created: '2021-02-01T05:37:11.979Z'
-modified: '2021-02-01T05:37:43.013Z'
+modified: '2021-02-22T06:21:02.287Z'
 ---
 
 # topic_ Manufacturing

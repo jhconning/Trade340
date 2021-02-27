@@ -1,0 +1,14 @@
+1. RMM114 Suppose an economy produces two goods: food and machines. This economy always operates on its production possibilities frontier. Last year, it produced 50 units of food and 30 machines. This year, it is producing 55 units of food and 33 machines. Which of the following would NOT explain the increase in output?
+
+*a. An increase in emigration (people leaving the country)
+b. An increase in the labor force
+c. An improvement in technology
+d. An increase in worker productivity
+1. RMM116 Jack and Jill live on two adjacent islands. They can each produce apples and shirts. Their PPFs  is as below.  If they decide to trade with each other how will they specialize?
+
+![](../attachments/RMM116.png)
+
+a. Jill will produce apples; Jack will produce shirts
+*b. Jack will produce apples; Jill will produce shirts
+c. They will not specialize and trade.
+ 

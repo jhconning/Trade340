@@ -1,0 +1,72 @@
+---
+title: F19final_practice
+tags: [_Questions/xsource/import]
+created: '2021-02-10T09:28:13.823Z'
+modified: '2021-02-23T14:49:21.100Z'
+---
+
+1. In the 2-factor (labor and capital), 2 good Heckscher-Ohlin model (and assuming product prices remain constant), capital accumulation over time should:
+a. shift the production possibility curve outward and decrease the production of the labor-intensive product.
+b. shift the production possibility curve outward, and increase the production of both goods.
+c. shift the production possibility curve outward and only increase the production of the labor-intensive product.
+d. move the point of production along the production possibility curve.
+2. In the Specific Factors Model with mobile labor an increase in  the relative price of agricultural goods will:
+a. raise the real wage of agricultural workers.
+b. raise the real return to capitalists in the manufacturing sector.
+c. raise or lower the real wage of workers depending on the importance of agricultural goods in their consumption baskets
+d. lead to a higher wage rate in the agricultural sector compared to the manufacturing sector.
+3. In the simplest intra-industry trade model with increasing returns and monopolistic competition, which happens
+a. the total number of varieties produced in each country increases and prices fall.
+b. consumers gain from more product varieties sold, prices fall and real wages rise so welfare rises for all workers.
+c. real wages rise in the larger country and fall in the smaller.
+d. national income increases but income inequality worsens.
+4. In the simple model of offshoring what happens to the relative wages of skilled labor when there is a change in the trading costs and more offshoring takes place? Assume Home is the country where production was originally located entirely.
+a. It falls in the Home country and rises abroad
+b. It rises in the Home country and falls abroad
+c. It falls in both countries
+d. It rises in both countries
+5. The economy produces agricultural goods and manufacturing goods only. Assuming no market failures free trade is the first-best policy. Which of the following production subsidies or taxes creates the least distortion (assume monies for subsidies as well as any revenues from taxes are raised or returned to citizens in non-distorting fashion):
+a. A production quota (with a 20% tariff equivalent) on good X.
+b. A 20% tariff on the importation of good X
+c. A 20% production subsidy to good X
+d. A 20% production subsidy and a 20% consumption tax on good X
+6. Which of the following effects would we expect from the introduction of a corn export subsidy in a small open economy:
+a. An increase in the world market price of corn
+b. An increase in the domestic price of corn
+c. A reduction of corn exports
+d. An increase in domestic corn consumption
+7. When a country enters into a Preferential trade arrangement (PTA) we expect both positive trade _________ as well as negative trade _________ effects.
+a. spillovers; agglomeration
+b. import substitution; demotion
+c. complementarity; singularity
+d. creation; diversion
+8. Whether it is via the channels of trade, capital accumulation, or the migration of factors across borders the neo-classical model based on the assumption of perfect substitution and production technologies with diminishing marginal products to the intensification of any one factor all predict that over time there should be a tendency toward ______________ in real factor incomes across countries. 
+a. monopolization
+b. entropy
+c. divergence
+d. convergence
+9. In the offshoring model, as the cost of capital and transactions falls in the developing country certain activities in the production value chain that had been produced in the developed country get offshored. The model predicts that the relative demand for skilled labor will
+a. Rise in the developing country and Fall in the developed
+b. Fall in the developing country and rise in the developed
+c. Fall in both countries
+d. Rise in both countries
+10. Which of the following macroeconomic identities lead to a correct account of the trade balance 
+a. Y = C + I + G + (X – M)                                               
+b. Y – E = X – M          
+c. (S - I) + (T – G) = (X – M) 
+d. all of the above
+11. Think of labor demand by firms in a sector (given by the horizontal summation of each firm’s downward sloping marginal value product of labor (P*MPL). If the product price remains unchanged then an improvement that raises the marginal product of every worker by say 10% should lead to _________ in labor demand and employment in the sector. However if the resulting increase in output supply leads to a sufficiently large ________ in the product price then total employment in the sector could fall:
+a. an increase, increase
+b. a decrease; increase
+c. no change; fall
+d. an increase; fall
+12. Which of the following international organizations today is responsible for developing and maintaining the system of international trade rules and dealing with trade disputes?
+a. The IMF
+b. The World Bank
+c. The Generalized Agreement on Tariffs and Trade (GATT)
+d. The WTO
+13. Which of the following explanations is the most plausible explanation for why the United States has had a persistent trade deficit with the rest of the world over the past few decades.
+a. Because the United States has remained an attractive destination for investment from abroad, driving expenditure (E = C + I + G) above domestic output Y.
+b. Because wages are lower abroad than in the USA so US firms find it difficult to compete.
+c. Because other countries have been taking advantage of the USA by having higher tariffs on their products.
+d. Because we have been losing ‘competitiveness’ as other countries have increased their productivity faster than the USA has.

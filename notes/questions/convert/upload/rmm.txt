@@ -1,0 +1,73 @@
+1. RMM101 The Ricardian Model is named after David Ricardo (1772-1823), considered today one of the most influential 'Classical Economists' along with Thomas Malthus, Adam Smith, and Karl Marx.  In addition to writing about Political Economy David Ricardo was also _____.
+<img src="../attachments/440px-Portrait_of_David_Ricardo_by_Thomas_Phillips.jpg" alt="Ricardo" style="zoom:33%;" />
+
+a. A wealth landlord and defender of Agrarian interests
+b. A radical labor organizer
+*c. A wealthy stockbroker and member of the British Parliament.
+d. An English cleric
+
+
+<!-- Image from Wikipedia -->
+1. RM1102 The Ricardian theory of comparative advantage states that a country has a comparative advantage at wheat production if
+
+a. output per worker of wheat is higher in that country than other countries.
+b. wage rates in that country are low.
+*c. wheat is produced at lower opportunity cost compared to other countries.
+d. Wheat is land-intensive and the country has a lot of land.
+2. RM1103 A country’s pattern of trade is determined by comparative advantage.  If however a country has an absolute dis-advantage at producing both goods compared to its trading partners we would predict that country
+
+a. would run a trade deficit
+b. would run a trade surplus
+*c. has a lower equilibrium wage rate 
+d. has a higher equilibrium wage rate
+
+3. RMM104 According to the Ricardian model, a nation engaged in trade will choose a consumption bundle
+
+a. on its production possibilities frontier.
+b. inside its production possibilities frontier.
+*c. outside its production possibilities frontier, on its consumption possibility frontier.
+d. inside its trade-partner's production possibilities frontier.
+4. RMM105 The Hecksher-Ohlin-Samuelson model focuses primarily on what as the source of comparative advantage across countries?
+
+a. differences in tastes
+b. differences in technology
+*c. differences in factor endowments
+d. none of the above
+
+
+5. RMM106 Home is a small country. Foreign is a very large country. Which statement is true?   
+    Marginal Products of Labor (units of output per worker) <img src="../attachments/examtable1.png" style="zoom:50%;" />
+
+a. Neither country has a comparative advantage.
+b. Home has a comparative advantage at both products.
+c. Home has a comparative advantage at cloth.
+*d. Home has a comparative advantage at widgets.
+
+
+
+# RMM180
+
+1. RMM180 Sally can type 100 words per minute and David can type 200 words per minute. Given these numbers, society would be better off if which one of the two was employed as a typist?
+
+a. Sally
+b. David
+*c. It depends
+
+<!-- source: MRU EconInbox -->
+# RMN101
+
+1. If the production technology is such that $MPL_X=1/3$ of a unit of X per hour, it will take ______hours to produce one unit of X.  (Enter a number only).
+
+Answer: 3
+![](../attachments/RMM107_8_image.png)
+
+107. If there are $\bar L = 50$ workers. What is the maximum bushels of wheat Home could produce in an hour if all workers were employed in Wheat?   They could produce ___ bushels of wheat per hour (enter only a number)
+
+Answer: 300 
+Explain: $MPL_W \cdot \bar L = 6\cdot 50=300$
+
+
+108. If there are $\bar L = 50$ workers. What is the maximum yards of cloth Home could produce in an hour if all workers were employed in Cloth?   They could produce ___ yards of cloth per hour (enter only a number).
+
+Answer: 200
+Explain: $MPL_C \cdot \bar L = 4\cdot 50=200$

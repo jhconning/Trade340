@@ -1,8 +1,8 @@
 ---
 title: Labor
-tags: [Notebooks/Modules/M05 Factor Mobility, posted]
+tags: [_Book/Modules, _Book/Modules/M05 Factor Mobility, x/posted]
 created: '2021-01-26T04:52:16.770Z'
-modified: '2021-01-30T03:52:19.552Z'
+modified: '2021-02-23T14:08:57.123Z'
 ---
 
 # The Movement of Labor

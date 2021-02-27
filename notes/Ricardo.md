@@ -1,8 +1,8 @@
 ---
 title: Ricardo
-tags: [Notebooks/Modules/M02_Ricardo, posted]
+tags: [_Book/Modules, _Book/Modules/M02_Ricardo, x/posted]
 created: '2021-01-04T05:13:02.994Z'
-modified: '2021-01-30T03:52:19.553Z'
+modified: '2021-02-23T14:08:57.129Z'
 ---
 
 # The Ricardian Model

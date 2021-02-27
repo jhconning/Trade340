@@ -1,8 +1,8 @@
 ---
 title: topic_ General Economics
-tags: [Notebooks/Resources/topic_ideas]
+tags: [ideas/Topic]
 created: '2021-01-29T15:32:00.115Z'
-modified: '2021-01-29T18:05:13.173Z'
+modified: '2021-02-22T06:21:02.286Z'
 ---
 
 # topic_ General Economics

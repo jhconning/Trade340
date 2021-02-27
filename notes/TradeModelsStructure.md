@@ -1,9 +1,9 @@
 ---
 title: TradeModelsStructure
 title_custom: true
-tags: [draft, Notebooks/Modules/M04_HOS, posted]
+tags: [_Book/Modules, _Book/Modules/M04_HOS, x/draft, x/posted]
 created: '2021-01-02T23:09:42.747Z'
-modified: '2021-01-30T03:52:19.553Z'
+modified: '2021-02-23T14:08:57.132Z'
 ---
 
 # Trade Models Structure 

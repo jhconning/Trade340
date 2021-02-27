@@ -1,8 +1,8 @@
 ---
 title: topic_ Quotes etc
-tags: [Notebooks/Resources/topic_ideas]
+tags: [ideas/Topic]
 created: '2021-01-30T18:32:21.823Z'
-modified: '2021-01-30T18:33:51.979Z'
+modified: '2021-02-22T06:21:02.287Z'
 ---
 
 # topic_ Quotes etc

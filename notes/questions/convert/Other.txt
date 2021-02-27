@@ -1,0 +1,176 @@
+1.IRM101 Intra-industry trade best describes the type of trade between
+
+a. developing countries of Asia and Africa.
+*b. industrial countries of Western Europe and North America.
+c. capital abundant and Labor abundant countries.
+d. formerly communist nations.
+1. IRM102 According to the gravity model of trade, trade between two countries varies __________ with the size of the countries (measured by GDP) and _______with the distance between the countries.
+
+a. Directly, directly
+b. Inversely, directly
+*c. Directly, inversely
+d. Inversely, inversely
+15. IRM103 ‘Agglomeration externalities’ help explain the rise of cities and hi-tech clusters such as Silicon Valley.  Which of the following economic assumptions is most clearly associated with this phenomena.
+
+a. Monopolistic competition and product differentiation based on economies of scale internal to the firm.
+b. Linear production technologies
+c. Capital-intensive production technologies
+*d. Positive economic spillovers across firms
+20. IRM104 Economies of scale that are external to the firm are often described as being associated with:
+
+a. Rent-seeking
+b. Negative externalities
+*c. Positive spillovers across firms
+d. Price-volatility
+
+31. MAM102 Which of the following explanations is the most plausible explanation for why the United States has had a persistent trade deficit with the rest of the world over the past few decades.
+
+*a. Because the United States has remained an attractive destination for investment from abroad, driving expenditure (E = C + I + G) above domestic output Y. 
+b. Because wages are lower abroad than in the USA so US firms find it difficult to compete. 
+c. Because other countries have been taking advantage of the USA by having higher tariffs on their products.
+d. Because we have been losing ‘competitiveness’ as other countries have increased their productivity faster than the USA has.
+26. MA301 If a country is running a Balance of Payments deficit then its Central Bank’s policy of keeping the exchange rate pegged should lead to an ‘automatic adjustment mechanism’ which:
+
+a. Leads to an expansion in the money supply and aggregate demand (AD)
+*b. Leads to a contraction in the money supply and aggregate demand (AD)
+c. Leads a devaluation of the nominal exchange rate
+d. Leads to a rise in the Central Bank’s foreign currency reserves
+19. OFM101 In the offshoring model, as the cost of capital and transactions falls in the developing country certain activities in the production value chain that had been produced in the developed country get offshored.  The model predicts that the relative demand for skilled labor will
+
+a. Rise in the developing country and Fall in the developed
+b. Fall in the developing country and rise in the developed
+c. Fall in both countries
+*d. Rise in both countries
+1. OFM102 In the simple model of offshoring what happens to the relative wages of skilled labor when there is a change in the trading costs and more offshoring takes place? Assume Home is the country where production was originally located entirely.
+
+a. It falls in the Home country and rises abroad
+b. It rises in the Home country and falls abroad
+c. It falls in both countries
+*d. It rises in both countries
+1. OFM103 In the offshoring model, as the cost of capital and transactions falls in the developing country certain activities in the production value chain that had been produced in the developed country get offshored. The model predicts that the relative demand for skilled labor will
+
+a. Rise in the developing country and Fall in the developed
+b. Fall in the developing country and rise in the developed
+c. Fall in both countries
+*d. Rise in both countries 
+
+
+
+28. PEM101 Economist Dani Rodrik writes “Today the advanced countries [that are] most exposed to the international economy are also those where safety nets and social insurance programs – welfare states – are the most extensive.” Workers in the USA, he argues enjoyed until recently ‘considerable protection from imports, especially from low-wage countries [due to the US] large domestic market and relative geographical insulation.’ The USA traditionally had ‘a weak welfare state’ but this he claims now makes the US vulnerable to the rise of populist protectionist policies as workers have become more exposed to trade in recent decades. Why would there is a connection? Because
+
+a. exposure to immigration exposes countries to socialist ideas.
+b. richer countries can afford to spend more on social programs.
+*c. safety net programs limit workers exposure to trade-related losses and redistribute some of the gains to trade in ways that maintain political support for open trade policies.
+d. he argues this happened by pure chance but it now affects country’s attitudes to trade.
+30. PEM102 According to economist Dani Rodrik and some other authors, countries that are more exposed to trade (measured for example as (X + M) / GDP ) also tend to have
+
+a. high levels of trade protection
+b. more right-wing populist governments with anti-free trade agendas
+*c. larger government social safety nets
+d. less coastline
+1. SFM101 The evidence from the ‘China Shock’ papers by Autor and his co-researchers found geographically persistent impacts of a surge of Chinese imports.  This is most consistent with the evidence from which of the following models:
+
+a. Ricardian
+*b. Specific Factors
+c. Heckscher-Ohlin-Samuelson
+d. IRS with monopolistic competition
+1. SFM102 In the two-country model of international labor mobility (think SFM but for migration between the ‘North’ and the ‘South’)
+
+a. migration has no effect on global output, though some groups are made worse off.
+*b. migration increases global output, makes some groups worse off.
+c. migration may reduce global output, some groups are made better off.
+d. migration results in increased global output, and all groups are made better off.
+2. SFM201 In the Specific Factors Model with mobile labor an increase in the relative price of agricultural goods will:
+
+a. raise the real wage of agricultural workers.
+b. raise the real return to capitalists in the manufacturing sector.
+*c. raise or lower the real wage of workers depending on the importance of agricultural goods in their consumption baskets
+d. lead to a higher wage rate in the agricultural sector compared to the manufacturing sector.
+
+[^comment]: ch4 ‘neoclassical ambiguity’
+
+
+29. TAM101 Which of the following international organizations today is responsible for developing and maintaining the system of international trade rules and dealing with trade disputes?
+
+a. The IMF
+b. The World Bank
+c. The Generalized Agreement on Tariffs and Trade (GATT)
+*d. The WTO
+1. TAM102 When a country enters into a Preferential trade arrangement (PTA) we expect both positive trade _________ as well as negative trade _________ effects.
+
+a. spillovers; agglomeration
+b. import substitution; demotion
+c. complementarity; singularity
+*d. creation; diversion
+1. TPM203 When a country enters into a Preferential trade arrangement (PTA) we expect both positive trade _________ as well as negative trade _________ effects.
+
+a. spillovers;  agglomeration
+b. import substitution; demotion
+c. complementarity; singularity
+*d. creation; diversion
+1. TLM101 In the simplest intra-industry trade model with increasing returns and monopolistic competition, which happens
+
+a. the total number of varieties produced in each country increases and prices fall.
+*b. consumers gain from more product varieties sold, prices fall and real wages rise so welfare rises for all workers.
+c. real wages rise in the larger country and fall in the smaller.
+d. national income increases but income inequality worsens.
+27. TLM201 Think of total labor demand by firms in a sector (the horizontal summation of each firm’s downward sloping marginal value product of labor, P*MPL).  If the product price remains unchanged then a generalized technological improvement that raises the marginal product of every worker by say 10% should lead to _________ in labor demand and employment in the sector. However if the resulting increase in output supply leads to a sufficiently large ________ in the product price then total employment in the sector could fall:
+
+a. an increase, increase 
+b. a decrease; increase
+c. no change; fall
+*d. an increase; fall
+1. TLM201 Think of labor demand by firms in a sector (given by the horizontal summation of each firm’s downward sloping marginal value product of labor (P*MPL). If the product price remains unchanged then an improvement that raises the marginal product of every worker by say 10% should lead to _________ in labor demand and employment in the sector. However if the resulting increase in output supply leads to a sufficiently large ________ in the product price then total employment in the sector could fall:
+
+a. an increase, increase
+b. a decrease; increase
+c. no change; fall
+*d. an increase; fall
+
+[^comment]: the demand for labor curve is P*MPL so all this is saying is that if P falls faster than MPL goes up the curve shifts down
+21. TPM103 A domestic refrigerator manufacturer successfully lobbies the government to impose a 50% tariff on imported refrigerators and a 0% import tariff on imported refrigerant liquid (essential to the domestic industry). The Effective Rate of Protection (ERP) on refrigerators will be:
+
+a. 50%
+*b. More than 50%
+c. Less than 50%
+d. 0%
+24. TPM104 Suppose Harley Davidson assembles and sells motorcycles in the USA for $10,000 a unit using imported steel and other components from Canada costing $4000. There is no tariff on these intermediate components so value added at world prices is equal to $5000. Consider now two scenarios (A) the USA imposes a 25% tariff on final good motorcycles and on intermediate components; and (B) The USA imposes a 25% tariff on motorcycle components only (zero tariff on imported motorcycles).  We can calculate the effective rate of protection ERP in scenarios A and B to be ____________ respectively.
+
+a. 25% and 40%
+*b. 25% and -25%
+c. 40% and -20%
+d. 25% and -20%
+1. TPM105 The effects of a 10% import tariff on a good is similar to:
+
+a. A 10 % consumption tax on both the imported and domestically produced good
+b. A 10 % production subsidy on the domestically produced good
+*c. The combination of a. and b.
+d. A 10% wage subsidy to workers in the domestic production of that good.
+1. TPM106 The economy produces agricultural goods and manufacturing goods only. Assuming no market failures free trade is the first-best policy. Which of the following production subsidies or taxes creates the least distortion (assume monies for subsidies as well as any revenues from taxes are raised or returned to citizens in non-distorting fashion):
+
+a. A production quota (with a 20% tariff equivalent) on good X.
+b. A 20% tariff on the importation of good X
+*c. A 20% production subsidy to good X
+d. A 20% production subsidy and a 20% consumption tax on good X
+
+[^comment]: all the others distort more
+because have production subsidy + consumption tax implications 
+
+
+
+
+
+1. TPM107 Which of the following effects would we expect from the introduction of a corn export subsidy in a small open economy:
+
+a. An increase in the world market price of corn
+*b. An increase in the domestic price of corn
+c. A reduction of corn exports
+d. An increase in domestic corn consumption
+
+[^comment]: producers get $ subsidy for selling abroad so will only also sell domestically if they can raise domestic price -->
+1. TPM201 In a two-sector economy that exports agriculture and imports manufacturing a production subsidy of 20% on manufacturing goods would have the same effect on domestic relative prices as:
+
+a.  20% subsidy to both manufacturing production and manufacturing consumption.
+b. 20% consumption tax on manufacturing consumption alone
+*c. 20% tax on agricultural exports
+d. 20% income tax

@@ -1,10 +1,9 @@
 ---
 title: TradeRead_bib
-tags: [Notebooks/Resources/topic_ideas]
+tags: [ideas/Topic]
 created: '2019-05-28T15:52:39.627Z'
-modified: '2021-01-21T06:02:33.794Z'
+modified: '2021-02-22T06:21:02.288Z'
 ---
-
 
 
 

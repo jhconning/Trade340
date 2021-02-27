@@ -1,10 +1,10 @@
 ---
 title: Krugman In Praise
 title_custom: true
-tags: [draft, Notebooks/Modules/M02_Ricardo, Notebooks/Readings/Ricardian]
+tags: [draft, Notebooks/Book/Modules, Notebooks/Modules/M02_Ricardo, Notebooks/Readings/Ricardian]
 pinned: true
 created: '2019-09-04T12:11:22.610Z'
-modified: '2021-02-04T06:10:26.473Z'
+modified: '2021-02-21T05:34:17.944Z'
 ---
 
 ## Krugman in Praise of Cheap Labor

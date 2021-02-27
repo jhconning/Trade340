@@ -1,8 +1,8 @@
 ---
 title: topic_ Technology
-tags: [Notebooks/Resources/topic_ideas]
+tags: [ideas/Topic]
 created: '2021-01-31T04:52:55.996Z'
-modified: '2021-02-01T03:28:39.029Z'
+modified: '2021-02-22T06:21:02.287Z'
 ---
 
 # topic_ Technology

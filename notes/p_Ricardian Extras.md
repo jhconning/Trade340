@@ -1,8 +1,8 @@
 ---
 title: p_Ricardian Extras
-tags: [Notebooks/Modules/M02_Ricardo]
+tags: [_Book/Modules, _Book/Modules/M02_Ricardo]
 created: '2021-02-16T19:12:17.474Z'
-modified: '2021-02-16T19:13:31.934Z'
+modified: '2021-02-23T14:08:57.128Z'
 ---
 
 # p_Ricardian Extras

@@ -1,0 +1,65 @@
+# HOM101
+
+8. By definition, a “capital abundant” country 
+
+a. Has a lot of capital, compared to other countries
+b. Has a small labor force, compared to other countries
+*c. Has a lot of capital relative to labor, compared to other countries
+d. Has more modern technology compared to other countries.
+# RMM101
+
+1. RMM101 The Ricardian Model is named after David Ricardo (1772-1823), considered today one of the most influential 'Classical Economists' along with Thomas Malthus, Adam Smith, and Karl Marx.  In addition to writing about Political Economy David Ricardo was also _____.
+<img src="../attachments/440px-Portrait_of_David_Ricardo_by_Thomas_Phillips.jpg" style="zoom:33%;" />
+
+a. A wealth landlord and defender of Agrarian interests
+b. A radical labor organizer
+*c. A wealthy stockbroker and member of the British Parliament.
+d. An English cleric
+
+
+
+# RM1102
+
+1. RM1102 The Ricardian theory of comparative advantage states that a country has a comparative advantage at wheat production if
+
+a. output per worker of wheat is higher in that country than other countries.
+b. wage rates in that country are low.
+*c. wheat is produced at lower opportunity cost compared to other countries.
+d. Wheat is land-intensive and the country has a lot of land.
+# RM1103
+
+
+2. RM1103 A country’s pattern of trade is determined by comparative advantage.  If however a country has an absolute dis-advantage at producing both goods compared to its trading partners we would predict that country
+
+a. would run a trade deficit
+b. would run a trade surplus
+c. has a lower equilibrium wage rate 
+d. has a higher equilibrium wage rate
+
+# RMM104
+
+3. RMM104 According to the Ricardian model, a nation engaged in trade will choose a consumption bundle
+
+a. on its production possibilities frontier.
+b. inside its production possibilities frontier.
+*c. outside its production possibilities frontier, on its consumption possibility frontier.
+d. inside its trade-partner's production possibilities frontier.
+# RMM105
+
+4. RMM105 The Hecksher-Ohlin-Samuelson model focuses primarily on what as the source of comparative advantage across countries?
+
+a. differences in tastes
+b. differences in technology
+*c. differences in factor endowments
+d. none of the above
+
+
+# RMM106
+
+5. RMM106 Home is a small country. Foreign is a very large country. Which statement is true?   
+    Marginal Products of Labor (units of output per worker) ![](../attachments/examtable1.png)
+
+a. Neither country has a comparative advantage.
+b. Home has a comparative advantage at both products.
+c. Home has a comparative advantage at cloth.
+d. Home has a comparative advantage at widgets.

@@ -1,8 +1,8 @@
 ---
 title: Other Course Materials
-tags: [Notebooks/Resources/topic_ideas]
+tags: [ideas/Readings]
 created: '2021-01-29T15:09:33.701Z'
-modified: '2021-01-29T15:29:02.842Z'
+modified: '2021-02-22T06:28:58.936Z'
 ---
 
 # Other Course Materials

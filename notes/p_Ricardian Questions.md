@@ -1,8 +1,8 @@
 ---
 title: p_Ricardian Questions
-tags: [fix, Notebooks/Modules/M02_Ricardo, Notebooks/tophat/page]
+tags: [_Book/Modules, _Book/Modules/M02_Ricardo, _Book/type, fix]
 created: '2021-02-16T03:56:08.611Z'
-modified: '2021-02-16T04:02:23.455Z'
+modified: '2021-02-23T16:28:24.655Z'
 ---
 
 # p_Ricardian Questions

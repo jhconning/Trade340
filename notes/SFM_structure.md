@@ -1,8 +1,8 @@
 ---
 title: SFM_structure
-tags: [Notebooks/Modules/M03_SFM]
+tags: [_Book/Modules, _Book/Modules/M03_SFM]
 created: '2021-01-28T08:22:18.227Z'
-modified: '2021-01-28T08:22:38.447Z'
+modified: '2021-02-23T14:08:57.130Z'
 ---
 
 # SFM_structure

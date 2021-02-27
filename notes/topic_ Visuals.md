@@ -1,9 +1,9 @@
 ---
 title: topic_ Visuals
 attachments: [countries_to_usa.jpg]
-tags: [Notebooks/Resources/topic_ideas]
+tags: [ideas/Topic]
 created: '2021-02-01T03:31:03.051Z'
-modified: '2021-02-08T06:11:29.700Z'
+modified: '2021-02-22T06:21:02.288Z'
 ---
 
 # topic_ Visuals

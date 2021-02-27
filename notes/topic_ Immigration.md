@@ -1,8 +1,8 @@
 ---
 title: topic_ Immigration
-tags: [Notebooks/Resources/topic_ideas]
+tags: [ideas/Topic]
 created: '2021-01-30T21:26:42.581Z'
-modified: '2021-01-31T15:58:10.528Z'
+modified: '2021-02-22T06:21:02.287Z'
 ---
 
 # topic_ Immigration

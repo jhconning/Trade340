@@ -1,8 +1,8 @@
 ---
 title: Geogebra Tricks
-tags: [geogebra, iframe, Notebooks/Modules/M95_Site]
+tags: [_Book/Modules, _Book/Modules/M95_Site, x/geogebra]
 created: '2021-02-01T03:59:57.168Z'
-modified: '2021-02-05T02:26:01.122Z'
+modified: '2021-02-23T20:03:04.121Z'
 ---
 
 # Geogebra Tricks

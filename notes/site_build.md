@@ -1,12 +1,14 @@
 ---
 title: site_build
 title_custom: true
-tags: [config]
+tags: [x/config]
 created: '2021-01-29T05:09:57.448Z'
-modified: '2021-01-29T05:56:26.593Z'
+modified: '2021-02-22T06:13:13.168Z'
 ---
 
 # Site build details
+
+- [local site html](file:///C:/Users/jconn/Google%20Drive/Hunter/eco340/book2/notes/_build/html/intro.html)
 
 ### Jupyterbook
 

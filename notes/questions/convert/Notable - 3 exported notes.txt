@@ -1,0 +1,27 @@
+1. RMM116 Jack and Jill live on two adjacent islands. They can each produce apples and shirts. Their PPFs  is as below.  If they decide to trade with each other how will they specialize?
+
+![](../attachments/RMM116.png)
+
+a. Jill will produce apples; Jack will produce shirts
+*b. Jack will produce apples; Jill will produce shirts
+c. They will not specialize and trade.
+ 
+1. RMM207 Supppose we have: 
+
+$P_x$ = dollars per unit of X
+$P_y$ = dollars per unit of Y
+
+In what units are Px/Py measured?
+
+a. dollars
+b. units of X per unit of Y
+*c. units of Y per unit of X
+d. unitless
+
+
+1. SFM103 The evidence from the ‘China Shock’ papers by Autor and his co-researchers found geographically persistent impacts of a surge of Chinese imports.  This is most consistent with the evidence from which of the following models:
+
+a. Ricardian
+*b. Specific Factors
+c. Heckscher-Ohlin-Samuelson
+d. IRS with monopolistic competition

@@ -1,8 +1,8 @@
 ---
 title: topic_ Trade Deficit
-tags: [Notebooks/Resources/topic_ideas]
+tags: [ideas/Topic]
 created: '2021-01-29T15:30:19.404Z'
-modified: '2021-02-01T06:27:50.279Z'
+modified: '2021-02-22T06:21:02.288Z'
 ---
 
 # topic_ Trade Deficit

@@ -1,9 +1,9 @@
 ---
 title: RQ_Jobs
 title_custom: true
-tags: [iframe, Notebooks/Modules/M01_Intro]
+tags: [_Book/Modules, _Book/Modules/M01_Intro, has/iframe]
 created: '2021-01-29T16:31:58.981Z'
-modified: '2021-02-05T02:26:01.123Z'
+modified: '2021-02-23T16:23:24.081Z'
 ---
 
 # Read: Technology, Trade and Jobs

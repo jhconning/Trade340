@@ -1,10 +1,9 @@
 ---
 title: Untitled
-tags: [draft]
+tags: [x/draft]
 created: '2021-02-15T05:47:44.065Z'
-modified: '2021-02-18T00:34:09.506Z'
+modified: '2021-02-22T06:14:01.543Z'
 ---
-
 
 Many of the trade models we study proceed as follows:
 

@@ -1,8 +1,7 @@
 ---
 title: interactive
-tags: [Notebooks/Resources/interactive]
 created: '2019-09-20T20:16:19.280Z'
-modified: '2021-01-21T06:02:19.382Z'
+modified: '2021-02-22T06:21:07.031Z'
 ---
 
 ## interactive

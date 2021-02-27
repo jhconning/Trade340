@@ -1,9 +1,9 @@
 ---
 title: jb_tricks
 title_custom: true
-tags: [Notebooks/Modules/M95_Site]
+tags: [_Book/Modules, _Book/Modules/M95_Site]
 created: '2021-01-30T03:39:42.302Z'
-modified: '2021-02-02T20:58:37.811Z'
+modified: '2021-02-23T14:08:57.122Z'
 ---
 
 # Using Jupyterbook

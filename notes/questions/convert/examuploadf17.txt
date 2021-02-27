@@ -1,0 +1,171 @@
+1. The Ricardian theory of comparative advantage states that a country has a comparative advantage at wheat production if
+a. output per worker of wheat is higher in that country than other countries.
+b. wage rates in that country are low.
+c. wheat is produced at lower opportunity cost compared to other countries.
+d. Wheat is land-intensive and the country has a lot of land.
+2. A country’s pattern of trade is determined by comparative advantage.  If however a country has an absolute dis-advantage at producing both goods compared to its trading partners we would predict that country
+a. would run a trade deficit
+b. would run a trade surplus
+c. has a lower equilibrium wage rate 
+d. has a higher equilibrium wage rate
+3. According to the Ricardian model, a nation engaged in trade will choose a consumption bundle
+a. on its production possibilities frontier.
+b. inside its production possibilities frontier.
+c. outside its production possibilities frontier, on its consumption possibility frontier.
+d. inside its trade-partner's production possibilities frontier.
+4. The Hecksher-Ohlin-Samuelson model focuses primarily on what as the source of comparative advantage across countries?
+a. differences in tastes
+b. differences in technology
+c. differences in factor endowments
+d. none of the above
+
+5. Home is a small country. Foreign is a very large country. Which statement is true?   
+    Marginal Products of Labor (units of output per worker) ![](../attachments/examtable1.png)
+
+a. Neither country has a comparative advantage.
+b. Home has a comparative advantage at both products.
+c. Home has a comparative advantage at cloth.
+d. Home has a comparative advantage at widgets.
+6. From the table above, the opportunity cost of producing a unit of cloth, measured in terms of widgets, is ________ in Home and ________ in foreign.
+a. 10/12,  20/6 
+b. 6/20,  12/10
+c. 1/2 
+d. 2  
+7. Continuing with the above, if Home were able to improve its technology by doubling the marginal productivity of workers in both sectors then, Home’s comparative advantage in widgets would
+a. remain the same and real wages would be unchanged.
+b. remain the same but real wages would double.
+c. remain the same but many workers would become unemployed as only half as many are needed
+d. reverse (change to the other product) and real wages would be cut in half
+8. By definition, a “capital abundant” country 
+a. Has a lot of capital, compared to other countries
+b. Has a small labor force, compared to other countries
+c. Has a lot of capital relative to labor, compared to other countries
+d. Has more modern technology compared to other countries.
+9. Chinese workers’ wages are much lower than US workers’ wages.  Why might US labor productivity exceed that of Chinese workers in so many sectors?
+a. The US has on average more capital per worker  
+b. The US has on average better infrastructure (roads, ports, legal systems, etc)
+c. US workers have on average more years of schooling
+d. All of the above
+10. Intra-industry trade best describes the type of trade between
+a. developing countries of Asia and Africa.
+b. industrial countries of Western Europe and North America.
+c. capital abundant and Labor abundant countries.
+d. formerly communist nations.
+11. In a two-sector economy that exports agriculture and imports manufacturing an import tariff of 20% on manufacturing would have the same effect on domestic relative prices as:
+a.  20% subsidy to both manufacturing production and manufacturing consumption.
+b. a 20% consumption tax on manufacturing consumption alone
+c. a 20% tax on agricultural exports
+d. a 20% income tax
+12. The USA is a large country when it comes to the import of copper on world markets.  If starting from a zero tariff the USA started to raise its tariff on the imports of copper we would expect the world price of copper to ______________  
+a. fall
+b. rise
+c. stay the same
+d. fall to zero
+13. In the HOS model an increase in the relative price of the labor intensive good should lead to an increase in the wage rental ratio w/r and lead ____________:
+a. all firms in the economy to substitute capital for labor (increase K/L ratios in production)
+b. firms only in the labor-intensive sector to substitute capital for labor (increase K/L ratios in production)
+c. all firms in the economy to begin to substitute labor for capital (decrease K/L ratios)
+d. firms only in the labor-intensive sector to begin to substitute labor for capital (decrease K/L ratios)
+14. According to the gravity model of trade, trade between two countries varies __________ with the size of the countries (measured by GDP) and _______with the distance between the countries.
+a. Directly, directly
+b. Inversely, directly
+c. Directly, inversely
+d. Inversely, inversely
+15. ‘Agglomeration externalities’ help explain the rise of cities and hi-tech clusters such as Silicon Valley.  Which of the following economic assumptions is most clearly associated with this phenomena.
+a. Monopolistic competition and product differentiation based on economies of scale internal to the firm.
+b. Linear production technologies
+c. Capital-intensive production technologies
+d. Positive economic spillovers across firms
+16. Which of the following effects would we expect from the introduction of a corn export subsidy in a small open economy:
+a. An increase in the world market price of corn 
+b. An increase in the domestic price of corn
+c. A reduction of corn exports
+d. An increase in domestic corn consumption
+17. When a country enters into a Preferential trade arrangement (PTA) we expect both positive trade _________ as well as negative trade _________ effects.
+a. spillovers;  agglomeration
+b. import substitution; demotion
+c. complementarity; singularity
+d. creation; diversion
+18. Whether it is via the channels of trade, capital accumulation, or the migration of factors across borders the neo-classical model based on the assumption of perfect substitution and production technologies with diminishing marginal products to the intensification of any one factor all predict that over time there should be a tendency toward ______________ in real factor incomes across countries.
+a. monopolization
+b. entropy
+c. divergence
+d. convergence 
+19. In the offshoring model, as the cost of capital and transactions falls in the developing country certain activities in the production value chain that had been produced in the developed country get offshored.  The model predicts that the relative demand for skilled labor will
+a. Rise in the developing country and Fall in the developed
+b. Fall in the developing country and rise in the developed
+c. Fall in both countries
+d. Rise in both countries
+20. Economies of scale that are external to the firm are often described as being associated with:
+a. Rent-seeking
+b. Negative externalities
+c. Positive spillovers across firms
+d. Price-volatility
+21. A domestic refrigerator manufacturer successfully lobbies the government to impose a 50% tariff on imported refrigerators and a 0% import tariff on imported refrigerant liquid (essential to the domestic industry). The Effective Rate of Protection (ERP) on refrigerators will be:
+a. 50%
+b. More than 50%
+c. Less than 50%
+d. 0%
+22. Think of the political economy of the specific factors model. Agriculture is produced with specific land and mobile labor and manufacturing is produced with specific capital and mobile labor.  The country has a comparative advantage in agriculture. Which groups would be most likely to oppose a move from autarky to free trade:
+a. Mobile laborers
+b. Landlords (owners of land)
+c. capitalists (owners of capital)
+d. None, free trade raises all incomes
+23. Think of the political economy of the HOS model. Agriculture and manufacturing are produced with capital and labor but agriculture is more labor-intensive.  This is a labor-abundant country. Which groups would be most likely to oppose a move from autarky to more open trade :
+a. Laborers (people who earn income primarily from labor)
+b. Owners of capital (income primarily from capital)
+c. Nobody, incomes rise for all groups in the HOS model
+d. Specific factors in general
+
+24. Suppose Harley Davidson assembles and sells motorcycles in the USA for $10,000 a unit using imported steel and other components from Canada costing $4000. There is no tariff on these intermediate components so value added at world prices is equal to $5000. Consider now two scenarios (A) Trump imposes a 25% tariff on final good motorcycles and on intermediate components; and (B) Trump imposes a 25% tariff on motorcycle components only (zero tariff on imported motorcycles).  We can calculate the effective rate of protection ERP in scenarios A and B to be ____________ respectively.
+a. 25% and 40%
+b. 25% and -25%
+c. 40% and -20%
+d. 25% and -20%
+25. Which of the following macroeconomic identities lead to a correct account of the trade balance
+a. Y = C + I + G + (X – M)
+b. Y – E = X – M
+c. (S - I) + (T – G) = (X – M)
+d. all of the above 
+26. If a country is running a Balance of Payments deficit then its Central Bank’s policy of keeping the exchange rate pegged should lead to an ‘automatic adjustment mechanism’ which:
+a. Leads to an expansion in the money supply and aggregate demand (AD)
+b. Leads to a contraction in the money supply and aggregate demand (AD)
+c. Leads a devaluation of the nominal exchange rate
+d. Leads to a rise in the Central Bank’s foreign currency reserves
+27. Think of labor demand by firms in a sector (given by the horizontal summation of each firm’s downward sloping marginal value product of labor (P*MPL).  If the product price remains unchanged then an improvement that raises the marginal product of every worker by say 10% should lead to _________ in labor demand and employment in the sector. However if the resulting increase in output supply leads to a sufficiently large ________ in the product price then total employment in the sector could fall:
+a. an increase, increase 
+b. a decrease; increase
+c. no change; fall
+d. an increase; fall
+28. Economist Dani Rodrik writes “Today the advanced countries [that are] most exposed to the international economy are also those where safety nets and social insurance programs – welfare states – are the most extensive.” Workers in the USA, he argues enjoyed until recently ‘considerable protection from imports, especially from low-wage countries [due to the US] large domestic market and relative geographical insulation.’ The USA traditionally had ‘a weak welfare state’ but this he claims now makes the US vulnerable to the rise of populist protectionist policies as workers have become more exposed to trade in recent decades. Why would there is a connection? Because
+a. exposure to immigration exposes countries to socialist ideas.
+b. richer countries can afford to spend more on social programs.
+c. safety net programs limit workers exposure to trade-related losses and redistribute some of the gains to trade in ways that maintain political support for open trade policies.
+d. he argues this happened by pure chance but it now affects country’s attitudes to trade.
+
+
+
+
+29. Which of the following international organizations today is responsible for developing and maintaining the system of international trade rules and dealing with trade disputes?
+a. The IMF
+b. The World Bank
+c. The Generalized Agreement on Tariffs and Trade (GATT)
+d. The WTO
+30. According to economist Dani Rodrik and some other authors, countries that are more exposed to trade (measured for example as (X + M) / GDP ) also tend to have
+a. high levels of trade protection
+b. more right-wing populist governments with anti-free trade agendas
+c. larger government social safety nets
+d. less coastline
+31. Which of the following explanations is the most plausible explanation for why the United States has had a persistent trade deficit with the rest of the world over the past few decades.
+a. Because the United States has remained an attractive destination for investment from abroad, driving expenditure (E = C + I + G) above domestic output Y. 
+b. Because wages are lower abroad than in the USA so US firms find it difficult to compete. 
+c. Because other countries have been taking advantage of the USA by having higher tariffs on their products.
+d. Because we have been losing ‘competitiveness’ as other countries have increased their productivity faster than the USA has.
+
+
+ 
+5
+
+
+Economics 340					page 7 of  6
+
