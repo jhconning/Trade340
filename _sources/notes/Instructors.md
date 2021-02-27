@@ -1,9 +1,9 @@
 ---
 title: Instructors
 attachments: [jc_portrait2.png, yuyun.JPG]
-tags: [Notebooks/Modules/Course Info, posted]
+tags: [_Book/Modules, _Book/Modules/Course Info, x/posted]
 created: '2021-01-28T18:51:52.983Z'
-modified: '2021-01-30T19:42:58.346Z'
+modified: '2021-02-23T14:11:02.065Z'
 ---
 
 # Instructors

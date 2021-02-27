@@ -1,9 +1,9 @@
 ---
 title: Zoom
 title_custom: true
-tags: [Notebooks/Modules/Course Info]
+tags: [_Book/Modules/Course Info]
 created: '2021-01-29T04:27:22.125Z'
-modified: '2021-01-30T20:00:24.967Z'
+modified: '2021-02-23T14:11:02.066Z'
 ---
 
 # Zoom and announcements
