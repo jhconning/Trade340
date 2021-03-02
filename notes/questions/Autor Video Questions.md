@@ -29,7 +29,7 @@ Autor Video Questions
 	c. insatiability of human desire
 	d. markets coordinate trade
 
-2. Which of the following term best describe the phenomenon of the shrinkage of middle-skill/middle-class employment mentioned in the talk?
+2. Which of the following term best describes the phenomenon of the shrinkage of middle-skill/middle-class employment mentioned in the talk?
 	*a. employment polarization
 	b. cyclical unemployment
 	c. voluntary unemployment
@@ -41,5 +41,7 @@ Autor Video Questions
 	*c. Saudi Arabia
 	*d. Norway
 	e. Venezuela
+	
+
 
 
