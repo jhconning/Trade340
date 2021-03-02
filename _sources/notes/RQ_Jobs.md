@@ -32,6 +32,48 @@ Please watch this TedTalk video by MIT economist David Autor and then answer the
 	*d. Luddites
 
 
-```
+2. In 1900, ____ of US employement was in agriculture. 
+
+	a. 90%
+
+	*b. 40%
+
+	c. 30%
+
+	d. 60%
+
+
+3. According to Autor, what was the solution to the problem of mass youth unemployment in the late 1800's and early 1900's?
+
+	a. More child labor
+
+	b. Migration to the cities
+
+	c. Stronger unions 
+
+	*d. Mandatory education
+	
+
+4. Which of the following term best describes the phenomenon of the shrinkage of middle-skill/middle-class employment mentioned in the talk?
+
+	*a. employment polarization
+
+	b. cyclical unemployment
+
+	c. voluntary unemployment
+
+	d. nonfarm payrolls employment
+
+
+5. Are you convinced by Autor's argument? Is technology and automation still a threat to our jobs?  (no wrong answer)
+	
+	a. yes
+
+	b. no
+
+	c. all hail the machine overlords 
+
+
+
 
 
