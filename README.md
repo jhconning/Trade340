@@ -1,7 +1,7 @@
 # Econ 340: International Trade
 ## (Spring 2021)
 
-This site is used to organize content for the Eco 340 course site on Tophat.
+This cool site is used to organize content for the Eco 340 course site on Tophat.
 
 Most of the content is written in markdown (.md) and jupyter notebook (.ipynb) files and then rendered as a jupyterbook website: 
 
