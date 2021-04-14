@@ -1,12 +1,13 @@
 - file: notes/index
 
-
 - part: Course Details
   chapters:
     - file: notes/Welcome
     - file: notes/Instructors
     - file: notes/Zoom
     - file: notes/p_Extra_Videos
+    - file: notes/Experiments
+    
     
 - part: Content Modules
   chapters:

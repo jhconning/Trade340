@@ -11,6 +11,8 @@ execute:
   execute_notebooks: cache
   exclude_patterns: []  
 
+only_build_toc_files: true
+
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
@@ -21,18 +23,31 @@ launch_buttons:
   colab_url: "https://colab.research.google.com"
   thebe: false
 
+
 # Information about where the book exists on the web
 repository:
   url: https://github.com/jhconning/eco340  # Online location of your book
   branch: main  # Which branch of the repository should be used when creating links (optional)
   
+
 parse:
-  myst_extended_syntax      : true 
+  myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
+    - amsmath
+    - colon_fence
+    - figure-md
+    - deflist
+    - dollarmath
+    - html_admonition
+    - html_image
+    - linkify
+    - replacements
+    - smartquotes
+    - substitution
+
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  use_issues_button: false
+  use_edit_page_button: true
   use_repository_button: true
-
-only_build_toc_files: true
+  only_build_toc_files: true
