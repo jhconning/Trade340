@@ -1,6 +1,8 @@
-- file: notes/index
+format: jb-book
+root: notes/bookExperiments.md
 
-- part: Course Details
+parts:
+- caption: Course Details
   chapters:
     - file: notes/Welcome
     - file: notes/Instructors
@@ -9,45 +11,33 @@
     - file: notes/Experiments
     
     
-- part: Content Modules
+- caption: Content Modules
   chapters:
     - file: notes/M01_Intro 
       sections:
         - file: notes/FirstGlobalization
         - file: notes/RQ_Jobs
-
     - file: notes/M02_Ricardian
       sections:
         - file: notes/p_ConsumerPreferences
         - file: notes/p_TheRicardian_Model
-        
     - file: notes/M03-Specific
       sections:
         - file: notes/SFM_structure
-        
-    - file: notes/Labor
-    - file: notes/TradeModelsStructure
-
-- part: Trade Notebooks
+    - file: notes/M04_HOS/HOS_top
+      sections:
+        - file: notes/M04_HOS/HOSPreliminaries
+    
+- caption: Trade Notebooks
   chapters:
     - file: notebooks/Ricardian_Trade
     - file: notebooks/SFM
     - file: notebooks/Tariff_in_general_equilibrium
     - file: notebooks/IRS_monopolistic
       
-- part: Site Building Details 
+- caption: Site Building Details 
   chapters:
     - file: notes/how
     - file: notes/jb_tricks
     - file: notebooks/embed_geogebra
 
-
-- part: Links and Resources
-  chapters:
-    - file: notes/twitter
-      
-- part: Site Building Details 
-  chapters:
-    - file: notes/how
-    - file: notes/jb_tricks
-    - file: notebooks/embed_geogebra

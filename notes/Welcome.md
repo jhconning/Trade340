@@ -2,12 +2,11 @@
 title: Welcome
 title_custom: true
 tags: [_Book/Modules/Course Info, x/draft, x/posted]
-created: '2021-01-28T17:08:28.000Z'
-modified: '2021-02-23T14:11:02.066Z'
+created: 2021-01-28T17:08:28.000Z
+modified: 2021-02-23T14:11:02.066Z
 ---
 
-<img src="../attachments/dock.png" alt="Jonathan Conning" class="bg-primary" width="100%" align="right">
-
+![cargo ship](../attachments/boat.jpg)
 # Welcome
 
 
