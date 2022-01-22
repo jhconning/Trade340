@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Trade Models Structure &#8212; Eco 340 International Trade (Hunter Economics)</title>
+    <title>Jupyterbook Experiments &#8212; Eco 340 International Trade (Hunter Economics)</title>
     
-  <link href="../_static/css/theme.css" rel="stylesheet" />
-  <link href="../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+  <link href="../_static/css/theme.css" rel="stylesheet">
+  <link href="../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -22,8 +22,8 @@
       
 
     
-    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="../_static/sphinx-book-theme.acff12b8f9c144ce68a297486a2fa670.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
     <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
@@ -31,34 +31,34 @@
     <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
-  <link rel="preload" as="script" href="../_static/js/index.1c5a1a01449ed65a7b51.js">
+  <link rel="preload" as="script" href="../_static/js/index.be7d3bbb2ef33a8344ce.js">
 
-    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
     <script src="../_static/underscore.js"></script>
     <script src="../_static/doctools.js"></script>
     <script src="../_static/togglebutton.js"></script>
     <script src="../_static/clipboard.min.js"></script>
     <script src="../_static/copybutton.js"></script>
-    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js"></script>
     <script src="https://unpkg.com/@jupyter-widgets/html-manager@^0.20.0/dist/embed-amd.js"></script>
-    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
-    <script >
+    <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
+    <script>
         const thebe_selector = ".thebe"
         const thebe_selector_input = "pre"
         const thebe_selector_output = ".output"
     </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
-    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
-    <script type="text/x-mathjax-config">MathJax.Hub.Config({"tex2jax": {"inlineMath": [["\\(", "\\)"]], "displayMath": [["\\[", "\\]"]], "processRefs": false, "processEnvironments": false}})</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="The Ricardian Trade Model" href="../notebooks/Ricardian_Trade.html" />
-    <link rel="prev" title="The Movement of Labor" href="Labor.html" />
+    <link rel="next" title="Welcome" href="Welcome.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="en" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
     
   </head>
   <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
@@ -75,6 +75,10 @@
         <div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="../index.html">
       
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
       <img src="../_static/logo.png" class="logo" alt="logo">
       
       
@@ -84,16 +88,16 @@
 </div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
   <i class="icon fas fa-search"></i>
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
-</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
         <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="index.html">
-   Econ 340: International Trade
+ <li class="toctree-l1 current">
+  <a class="reference internal" href="#">
+   Jupyterbook Experiments
   </a>
  </li>
 </ul>
-<p class="caption">
+<p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Course Details
  </span>
@@ -120,12 +124,12 @@
   </a>
  </li>
 </ul>
-<p class="caption">
+<p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Content Modules
  </span>
 </p>
-<ul class="current nav bd-sidenav">
+<ul class="nav bd-sidenav">
  <li class="toctree-l1 has-children">
   <a class="reference internal" href="M01_Intro.html">
    M01 Introduction
@@ -160,18 +164,8 @@
    </li>
   </ul>
  </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="Labor.html">
-   The Movement of Labor
-  </a>
- </li>
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
-   Trade Models Structure
-  </a>
- </li>
 </ul>
-<p class="caption">
+<p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Trade Notebooks
  </span>
@@ -198,41 +192,7 @@
   </a>
  </li>
 </ul>
-<p class="caption">
- <span class="caption-text">
-  Site Building Details
- </span>
-</p>
-<ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="how.html">
-   How this site was made (and why)
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="jb_tricks.html">
-   Using Jupyterbook
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="../notebooks/embed_geogebra.html">
-   How to Embed Geogebra
-  </a>
- </li>
-</ul>
-<p class="caption">
- <span class="caption-text">
-  Links and Resources
- </span>
-</p>
-<ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="twitter.html">
-   Twitter Feed
-  </a>
- </li>
-</ul>
-<p class="caption">
+<p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Site Building Details
  </span>
@@ -294,12 +254,12 @@
         <!-- ipynb file if we had a myst markdown file -->
         
         <!-- Download raw file -->
-        <a class="dropdown-buttons" href="../_sources/notes/TradeModelsStructure.md"><button type="button"
+        <a class="dropdown-buttons" href="../_sources/notes/bookExperiments.md"><button type="button"
                 class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -314,7 +274,7 @@
                 data-toggle="tooltip" data-placement="left" title="Source repository"><i
                     class="fab fa-github"></i>repository</button></a>
         
-        <a class="edit-button" href="https://github.com/jhconning/eco340/edit/main/notes/TradeModelsStructure.md"><button
+        <a class="edit-button" href="https://github.com/jhconning/eco340/edit/main/notes/bookExperiments.md"><button
                 type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
                 title="Edit this page"><i class="fas fa-pencil-alt"></i>suggest edit</button></a>
     </div>
@@ -332,31 +292,21 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
             <div class="tocsection onthispage pt-5 pb-3">
                 <i class="fas fa-list"></i> Contents
             </div>
-            <nav id="bd-toc-nav">
+            <nav id="bd-toc-nav" aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#the-hecksher-ohlin-samuelson-trade-model">
-   The Hecksher-Ohlin-Samuelson Trade Model
+  <a class="reference internal nav-link" href="#embedded-spreadsheets">
+   Embedded Spreadsheets
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#the-specific-factors-model">
-   The Specific Factors Model
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#the-ricardian-model">
-   The Ricardian Model
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#notes">
-   Notes
+  <a class="reference internal nav-link" href="#numbered-figures">
+   Numbered Figures
   </a>
  </li>
 </ul>
@@ -367,78 +317,96 @@
 </div>
     <div id="main-content" class="row">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Jupyterbook Experiments</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#embedded-spreadsheets">
+   Embedded Spreadsheets
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#numbered-figures">
+   Numbered Figures
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
               <div>
                 
-  <div class="section" id="trade-models-structure">
-<h1>Trade Models Structure<a class="headerlink" href="#trade-models-structure" title="Permalink to this headline">¶</a></h1>
-<p>The Hecksher-Ohlin-Samuelson model (HOS), the Specific Factors Model (SFM) and the Ricardian Model (RM) share similar model structures.</p>
-<p>In the background we are making common assumptions about the <strong>Demand Side</strong> of the model, or consumer preferences (i.e. the utility <span class="math notranslate nohighlight">\(u(c_x, c_y)\)</span> consumers obtain from each consumption bundle <span class="math notranslate nohighlight">\((c_x, c_y)\)</span>).</p>
-<p>The <strong>Supply Side</strong> of each model is then defined by:</p>
-<ul class="simple">
-<li><p>Production Technology in each sector</p></li>
-<li><p>Resource constraints</p></li>
-</ul>
-<div class="section" id="the-hecksher-ohlin-samuelson-trade-model">
-<h2>The Hecksher-Ohlin-Samuelson Trade Model<a class="headerlink" href="#the-hecksher-ohlin-samuelson-trade-model" title="Permalink to this headline">¶</a></h2>
-<div class="math notranslate nohighlight">
-\[\begin{split}
-\begin{aligned}
-Q_x &amp;= F(K_x, L_x)   \\
-Q_y &amp;= G(K_y, L_y)    \\
-\bar L &amp;= L_x + L_y   \\
-\bar K &amp;= K_x + K_y 
-\end{aligned}
-\end{split}\]</div>
+  <div class="tex2jax_ignore mathjax_ignore section" id="jupyterbook-experiments">
+<h1>Jupyterbook Experiments<a class="headerlink" href="#jupyterbook-experiments" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="embedded-spreadsheets">
+<h2>Embedded Spreadsheets<a class="headerlink" href="#embedded-spreadsheets" title="Permalink to this headline">¶</a></h2>
+<p>Google sheets does not seem to work well, certainly not on rendered website.</p>
+<iframe width='70%' height='250' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuuPY8zzAnApMECZEb7VLjT-AGQr6B5ZsFweB3chmJ0QVwBO2R56uw7DzYW77BlFiAY-tKIUOK37HJ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </div>
-<div class="section" id="the-specific-factors-model">
-<h2>The Specific Factors Model<a class="headerlink" href="#the-specific-factors-model" title="Permalink to this headline">¶</a></h2>
-<div class="math notranslate nohighlight">
-\[\begin{split}
-\begin{aligned}
-Q_x &amp;= F(K_x, L_x)   \\
-Q_y &amp;= G(K_y, L_y)    \\
-\bar L &amp;= L_x + L_y  \\
-K_x &amp;= \bar K_x \\
-K_y &amp;= \bar K_y
-\end{aligned}
-\end{split}\]</div>
+<div class="section" id="numbered-figures">
+<h2>Numbered Figures<a class="headerlink" href="#numbered-figures" title="Permalink to this headline">¶</a></h2>
+<p>Modeled after <a class="reference external" href="https://jupyterbook.org/content/figures.html">this</a> jupyterbook documentation page, we should be able to get numbered figures.</p>
+<p>Myst directive method:</p>
+<div class="figure align-default" id="id1">
+<img alt="../_images/capital-intensity.png" src="../_images/capital-intensity.png" />
+<p class="caption"><span class="caption-number">Fig. 1 </span><span class="caption-text">Capital Intensity over time.</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
 </div>
-<div class="section" id="the-ricardian-model">
-<h2>The Ricardian Model<a class="headerlink" href="#the-ricardian-model" title="Permalink to this headline">¶</a></h2>
-<div class="math notranslate nohighlight">
-\[\begin{split}
-\begin{aligned}
-Q_x &amp;= MPL_x \cdot L_x  \\
-Q_y &amp;= MPL_y \cdot L_y   \\
-\bar L &amp;= L_x + L_y 
-\end{aligned}
-\end{split}\]</div>
+<p>And another figure:</p>
+<div class="figure align-default" id="lab-fig">
+<a class="reference internal image-reference" href="attachments/Labor_demand1.png"><img alt="attachments/Labor_demand1.png" src="attachments/Labor_demand1.png" style="height: 300px;" /></a>
+<p class="caption"><span class="caption-number">Fig. 2 </span><span class="caption-text">A labor demand diagram.</span><a class="headerlink" href="#lab-fig" title="Permalink to this image">¶</a></p>
 </div>
-<div class="section" id="notes">
-<h2>Notes<a class="headerlink" href="#notes" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li><p>Each model can be solved as a:</p>
-<ul>
-<li><p><strong>Social Planner’s Problem:</strong></p>
-<ul>
-<li><p><strong>closed economy:</strong> Social planner finds the point on the PPF that maximizes the value of a Social Welfare (a weighted average of consumer utility). With no world trade, the country must produce what it consumers.</p></li>
-<li><p><strong>Open economy:</strong> Social planner finds the point on the production function that maximizes country income at world prices and then chooses the point on the country’s income line (or consumption possibility frontier) that maximizes the value of a social welfare function.</p></li>
-</ul>
-</li>
-<li><p><strong>A Competitive Market:</strong></p>
-<ul>
-<li><p>firms maximize profits and consumers sell factors to generate income to maximize consumption. In the <strong>closed economy</strong> domestic consumption must equal domestic production for each good; in the <strong>open economy</strong> only the value of production must equal the value of consumption (in a balanced trade economy).</p></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p>In HOS and SFM production technology is CRS of form <span class="math notranslate nohighlight">\(F(K,L)\)</span>. Capital and labor are substitutes in production. This leads to bowed out PPFs.</p></li>
-<li><p>The SFM as a short-run version of the HOS: in HOS both capital and labor can adjust across sectors but in SFM only labor can.</p></li>
-<li><p>The RM is similar to the SFM (it’s also known as the Ricardo-Viner model) in that only labor can adjust.  It also has simpler linear (constant marginal product of labor) production technologies.</p></li>
-<li><p>The SFM model is also known as the Ricardo-Viner model due to its similarity to the Ricardian model: only labor can adjust.</p></li>
-<li><p>The RM is a “Classical” model in that relative prices and real wages are determined in the closed economy by the supply side of the economy only.</p></li>
-</ul>
+<p>Usual markdown image links also work (but less fine control over placement)
+<img alt="" src="../_images/boat.jpg" /></p>
+<p>Another method with colon fences (does not appear to work):</p>
+<p>:::{figure-md} fig-target
+:class: myclass</p>
+<img src="../attachments/boat.jpg" alt="boat" class="bg-primary mb-1" width="200px">
+<p>This is a caption in <strong>Markdown</strong>
+:::</p>
+<p>Capital Intensity over time.
+:::</p>
+<p>This seems to not work to caption figure with a number (need to list figure-md MyST extension on _config.yml… but maybe not working)</p>
+<p>:::{figure-md} markdown-fig</p>
+<img src="../attachments/Labor_demand1.png" alt="Labor Demand" class="bg-primary mb-1" width="200px">
+<p>This is a caption in <strong>Markdown</strong>!</p>
+<p>:::</p>
+<p>Reference <span class="xref myst"></span></p>
+<!-- :::{note} -->
+<p>This text is <strong>standard</strong> <em>Markdown</em>
+:::</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Here is a note</p>
+</div>
+<p>:::{admonition} This <em>is</em> also <strong>Markdown</strong>
+:class: warning</p>
+<p>This text is <strong>standard</strong> <em>Markdown</em>
+:::</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Here is a note</p>
+</div>
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
 </div>
 </div>
 
@@ -464,35 +432,35 @@ Q_y &amp;= MPL_y \cdot L_y   \\
 
               </div>
               
-        
-        <div class='prev-next-bottom'>
             
-    <a class='left-prev' id="prev-link" href="Labor.html" title="previous page">The Movement of Labor</a>
-    <a class='right-next' id="next-link" href="../notebooks/Ricardian_Trade.html" title="next page">The Ricardian Trade Model</a>
-
-        </div>
-        
+                <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+    <a class='right-next' id="next-link" href="Welcome.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Welcome</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            
         </div>
     </div>
-    <footer class="footer mt-5 mt-md-0">
-    <div class="container">
-      <p>
-        
-          By Jonathan Conning<br/>
-        
-            &copy; Copyright 2020.<br/>
-      </p>
-    </div>
-  </footer>
+    <footer class="footer">
+  <p>
+    
+      By Jonathan Conning<br/>
+    
+        &copy; Copyright 2021.<br/>
+  </p>
+</footer>
 </main>
 
 
       </div>
     </div>
-    
-  <script src="../_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+  
+  <script src="../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
 
-
-    
   </body>
 </html>
